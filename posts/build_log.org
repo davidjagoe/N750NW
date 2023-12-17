@@ -1,0 +1,6046 @@
+#+TITLE: N750NW Build Log
+#+STARTUP: inlineimages
+#+LANGUAGE: en-us
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style2.css" />
+#+OPTIONS: c:t
+* [2019-04-01 Mon] Preparation / receive kit
+#+CAPTION:
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1585.jpg]]
+#+CAPTION:
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1586.jpg]]
+
+* [2019-04-06 Sat] Preparation / inventory
+#+CAPTION:
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1602.jpg]]
+
+* [2019-04-07 Sun] Preparation / inventory
+#+CAPTION:
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1606.jpg]]
+#+CAPTION: "Doesn't look like a flying machine fren!"
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1607.jpg]]
+
+* [2019-04-08 Mon] Preparation / inventory
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1613.jpg]]
+
+* [2019-05-04 Sat] Preparation / a missing part?
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1881.jpg]]
+
+* [2019-05-06 Mon] Preparation / inventory
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1890.jpg]]
+
+* [2019-05-20 Mon] Preparation / workbench
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1931.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1933.jpg]]
+
+* [2019-05-26 Sun] Vertical stabilizer / skeleton
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1948.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_1949.jpg]]
+
+* [2019-06-13 Thu] Vertical stabilizer / skeleton
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2072.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2073.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2074.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2075.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2077.jpg]]
+
+* [2019-06-14 Fri] Vertical stabilizer / deburring
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2078.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2082.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2083.jpg]]
+
+* [2019-06-15 Sat] Vertical stabilizer / skins
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2092.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2093.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2095.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2096.jpg]]
+
+* [2019-06-16 Sun] Vertical stabilizer / finishing
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2097.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2098.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2099.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2100.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2101.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2102.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2103.jpg]]
+
+* [2019-06-18 Tue] Horizontal stabilizer / prep
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2112.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2113.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2114.jpg]]
+
+* [2019-06-19 Wed] Horizontal stabilizer / skeleton
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2117.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2118.jpg]]
+
+* [2019-06-24 Mon] Horizontal stabilizer / skins
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2139.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2140.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2141.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2142.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2143.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2144.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2145.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2146.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2147.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2148.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2149.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2150.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2151.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2152.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2153.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2154.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2155.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2156.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2158.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2161.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2162.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2163.jpg]]
+
+* [2019-06-26 Wed] Horizontal stabilizer / skins
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2169.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2170.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2171.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2172.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2173.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2174.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2175.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2176.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2177.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2178.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2179.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2183.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2184.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2185.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2186.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2187.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2188.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2189.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2190.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2191.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2192.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2193.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2194.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2195.jpg]]
+
+* [2019-06-30 Sun] Horizontal stabilizer / bottom skin
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2200.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2201.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2202.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2203.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2204.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2205.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2206.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2207.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2208.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2209.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2210.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2211.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2212.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2215.jpg]]
+
+* [2019-07-01 Mon] Horizontal stabilizer / skins
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2217.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2218.jpg]]
+
+* [2019-07-03 Wed] Horizontal stabilizer / mounting brackets
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2219.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2220.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2221.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2222.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2223.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2224.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2225.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2226.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2228.jpg]]
+
+* [2019-07-04 Thu] Horizontal stabilizer / deburr & prime
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2229.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2230.jpg]]
+
+* [2019-07-05 Fri] Horizontal stabilizer / riveting
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2231.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2232.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2236.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2237.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2238.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2239.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2240.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2241.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2242.jpg]]
+
+* [2019-07-06 Sat] Horizontal stabilizer / finish
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2243.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2244.jpg]]
+
+* [2019-07-07 Sun] Elevator / prep
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2246.jpg]]
+
+* [2019-07-09 Tue] Elevator / skeleton
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2260.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2262.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2263.jpg]]
+
+* [2019-07-11 Thu] Elevator / skeleton
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2266.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2270.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2271.jpg]]
+
+* [2019-07-15 Mon] Elevator / skins
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2282.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2283.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2284.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2285.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2286.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2287.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2289.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2290.jpg]]
+
+* [2019-07-16 Tue] Elevator / skins
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2291.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2292.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2293.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2294.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2295.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2296.jpg]]
+
+* [2019-07-17 Wed] Elevator / nose skins
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2297.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2298.jpg]]
+
+* [2019-07-19 Fri] Elevator / brackets
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2303.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2304.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2305.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2306.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2307.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2308.jpg]]
+
+* [2019-07-20 Sat] Elevator / trim tab
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2310.jpg]]
+
+* [2019-07-21 Sun] Elevator / trim tab
+  Hinge & horn
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2311.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2312.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2313.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2314.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2315.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2316.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2317.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2318.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2319.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2320.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2321.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2322.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2323.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2324.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2325.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2326.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2327.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2328.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2329.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2330.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2331.jpg]]
+
+* [2019-07-23 Tue] Elevator / disassemble & deburr
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2332.jpg]]
+
+* [2019-08-01 Thu] Elevator / priming
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2337.jpg]]
+
+* [2019-08-03 Sat] Elevator / re-assemble
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2338.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2339.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2340.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2341.jpg]]
+
+* [2019-08-04 Sun] Elevator / riveting
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2342.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2343.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2344.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2345.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2346.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2347.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2348.jpg]]
+
+* [2019-08-05 Mon] Right wing / prep
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2354.jpg]]
+
+* [2019-08-10 Sat] Right wing / skeleton
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2360.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2361.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2362.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2363.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2364.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2365.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2366.jpg]]
+
+* [2019-08-11 Sun] Right wing / skeleton
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2368.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2369.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2370.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2371.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2372.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2373.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2374.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2375.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2376.jpg]]
+
+* [2019-08-17 Sat] Right wing / skeleton
+  CLOCK: [2019-08-17 Sat 17:00]--[2019-08-17 Sat 18:00] =>  1:00
+#+CAPTION: Use drill bits to check hole sizes before dissassembling for deburring & priming.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2395.jpg]]
+#+CAPTION: Plans say that the rear ribs need A5 (#20).
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2396.jpg]]
+#+CAPTION: But build instructions had said not to drill some of these yet.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2397.jpg]]
+
+Another example of why it is important to cross-check the work
+sequence instructions with the plans. The instructions are work steps,
+but the final product must match the plans. (Written instructions are
+inherently incomplete/ambiguous. In this case I believe the
+instructions hold drilling the holes in this step because these 3
+holes can be drilled in a later step when the rear rib is attached,
+but the instructions didn't have an explicit step to do that.) Just to
+be sure, I looked through further work instructions to check that
+there isn't a reason to delay enlarging the holes.
+
+#+CAPTION: Using the bits to verify hole sizes.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2398.jpg]]
+#+CAPTION: Yellow-off the holes on the plans.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2399.jpg]]
+#+CAPTION: All holes checked in the wing skeleton.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2400.jpg]]
+
+* [2019-08-18 Sun] Right wing / skelton / deburr
+  CLOCK: [2019-08-18 Sun 17:46]--[2019-08-18 Sun 20:08] =>  2:22
+  CLOCK: [2019-08-18 Sun 12:25]--[2019-08-18 Sun 14:18] =>  1:53
+  CLOCK: [2019-08-18 Sun 10:35]--[2019-08-18 Sun 12:16] =>  1:41
+#+CAPTION: Disassembled for deburring and priming.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2403.jpg]]
+#+CAPTION: Deburring, the old fashioned way.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2405.jpg]]
+#+CAPTION: It's important to keep matched parts that were aligned and drilled together.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2407.jpg]]
+* [2019-08-19 Mon] Right wing / skeleton / priming
+  CLOCK: [2019-08-19 Mon 20:00]--[2019-08-19 Mon 21:00] =>  1:00
+#+CAPTION: New supplies, including safety-wire tool...
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2411_modified.jpg]]
+#+CAPTION: ... safety wire, and...
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2412.jpg]]
+#+CAPTION: ... Boelube, which will hopefully make my bits last longer and decrease burring.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2413.jpg]]
+#+CAPTION: One of the parts I primed yesterday.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2414.jpg]]
+#+CAPTION: Just primed these, and...
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2415.jpg]]
+#+CAPTION: ... these, and ...
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2416.jpg]]
+#+CAPTION: this.
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2417.jpg]]
+
+* [2019-08-20 Tue] Right wing / skeleton / spar
+  CLOCK: [2019-08-20 Tue 18:00]--[2019-08-20 Tue 20:30] =>  2:30
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2424.jpg]]
+
+* [2019-08-21 Wed] Right wing / skeleton / reassemble
+  CLOCK: [2019-08-21 Wed 19:00]--[2019-08-21 Wed 20:00] =>  1:00
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2425.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2426.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2427.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2428.jpg]]
+
+* [2019-08-22 Thu] Right wing / skeleton / finish
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2429.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2430.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2431.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2432.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2433.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2434.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2435.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2436.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2437.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2438.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2439.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2440.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2441.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2442.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2443.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2444.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2445.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2446.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2447.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2448.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2449.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2450.jpg]]
+* [2019-08-24 Sat] Right wing / bottom skins
+  CLOCK: [2019-08-24 Sat 18:03]--[2019-08-24 Sat 19:35] =>  1:32
+  CLOCK: [2019-08-24 Sat 13:46]--[2019-08-24 Sat 14:51] =>  1:05
+  CLOCK: [2019-08-24 Sat 12:00]--[2019-08-24 Sat 13:39] =>  1:39
+  - See this [[http://www.zenith.aero/group/stolch750/forum/topics/75w9-1-2-3-4-wing-skin-l-angles][forum post]] about the wing L-angles. The plans has part
+    numbers for them (75W9-1 etc.) and says they're supplied
+    pre-drilled, but they are not.
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2451.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2452.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2453.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2454.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2455.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2456.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2457.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2458.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2459.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2460.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2461.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2463.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2464.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2465.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2466.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2467.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2468.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2469.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2470.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2471.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2472.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2473.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2474.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2475.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2476.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2477.jpg]]
+
+* [2019-08-25 Sun] Right wing / bottom skins
+  CLOCK: [2019-08-25 Sun 20:20]--[2019-08-25 Sun 20:56] =>  0:36
+  CLOCK: [2019-08-25 Sun 18:00]--[2019-08-25 Sun 20:00] =>  2:00
+  CLOCK: [2019-08-25 Sun 13:33]--[2019-08-25 Sun 14:39] =>  1:06
+  CLOCK: [2019-08-25 Sun 11:18]--[2019-08-25 Sun 13:11] =>  1:53
+  CLOCK: [2019-08-25 Sun 09:30]--[2019-08-25 Sun 10:24] =>  0:54
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2478.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2479.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2480.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2481.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2482.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2483.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2484.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2485.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2486.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2487.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2488.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2489.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2490.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2491.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2492.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2493.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2494.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2495.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2496.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2497.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2498.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2499.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2500.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2501.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2510.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2511.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2512.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2513.jpg]]
+
+* [2019-08-26 Mon] Right wing / bottom skins
+  CLOCK: [2019-08-26 Mon 18:30]--[2019-08-26 Mon 20:45] =>  2:15
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2522.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2523.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2524.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2525.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2526.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2527.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2528.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2529.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2530.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2531.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2532.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2533.jpg]]
+
+* [2019-08-27 Tue] Right wing / bottom skins
+  CLOCK: [2019-08-27 Tue 19:40]--[2019-08-27 Tue 20:10] =>  0:30
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2534.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2535.jpg]]
+
+* [2019-08-28 Wed] Right wing / bottom skins
+  CLOCK: [2019-08-28 Wed 16:35]--[2019-08-28 Wed 18:00] =>  1:25
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2540.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2541.jpg]]
+
+* [2019-08-29 Thu] Right wing / bottom skins / deburr
+  CLOCK: [2019-08-29 Thu 21:40]--[2019-08-29 Thu 23:13] =>  1:33
+  CLOCK: [2019-08-29 Thu 17:38]--[2019-08-29 Thu 20:50] =>  3:12
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2550.jpg]]
+
+* [2019-08-31 Sat] Right wing / bottom skins / priming
+  CLOCK: [2019-08-31 Sat 15:00]--[2019-08-31 Sat 19:14] =>  4:14
+  CLOCK: [2019-08-31 Sat 09:52]--[2019-08-31 Sat 12:00] =>  2:08
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2551.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2552.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2553.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2554.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2556.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2557.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2558.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2560.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2561.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2563.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2555.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2559.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2562.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2564.jpg]]
+
+* [2019-09-01 Sun] Right wing / bottom skins / riveting
+  CLOCK: [2019-09-01 Sun 15:15]--[2019-09-01 Sun 16:08] =>  0:53
+  CLOCK: [2019-09-01 Sun 11:06]--[2019-09-01 Sun 12:36] =>  1:30
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2567.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2573.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2574.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2575.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2577.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2578.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2579.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2580.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2581.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2582.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2583.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2565.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2566.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2568.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2571.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2572.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2576.jpg]]
+* [2019-09-02 Mon] Right wing / flaperon arms
+  CLOCK: [2019-09-02 Mon 09:23]--[2019-09-02 Mon 11:28] =>  2:05
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2584.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2585.jpg]]
+* [2019-09-03 Tue] Right wing / flaperon arms, top skins
+  CLOCK: [2019-09-03 Tue 20:45]--[2019-09-03 Tue 22:23] =>  1:38
+  CLOCK: [2019-09-03 Tue 16:36]--[2019-09-03 Tue 19:57] =>  3:21
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2589.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2590.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2595.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2596.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2586.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2587.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2588.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2591.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2592.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2593.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2594.jpg]]
+* [2019-09-04 Wed] Right wing / top skins
+  CLOCK: [2019-09-04 Wed 21:18]--[2019-09-04 Wed 22:03] =>  0:45
+  CLOCK: [2019-09-04 Wed 18:15]--[2019-09-04 Wed 21:06] =>  2:51
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2598.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2599.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2600.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2601.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2602.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2603.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2604.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2605.jpg]]
+* [2019-09-05 Thu] Right wing / top skins
+  CLOCK: [2019-09-05 Thu 21:10]--[2019-09-05 Thu 22:59] =>  1:49
+  CLOCK: [2019-09-05 Thu 19:25]--[2019-09-05 Thu 20:22] =>  0:57
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2607.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2608.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2609.jpg]]
+* [2019-09-07 Sat] Right wing / top skins
+  CLOCK: [2019-09-07 Sat 16:49]--[2019-09-07 Sat 17:50] =>  1:01
+  CLOCK: [2019-09-07 Sat 13:32]--[2019-09-07 Sat 14:30] =>  0:58
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2610.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2611.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2612.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2613.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2614.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2615.jpg]]
+* [2019-09-08 Sun] Right wing / root skins
+  CLOCK: [2019-09-08 Sun 17:33]--[2019-09-08 Sun 22:34] =>  5:01
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2618.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2619.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2620.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2621.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2622.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2623.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2624.jpg]]
+* [2019-09-09 Mon] Right wing / root skins
+  CLOCK: [2019-09-09 Mon 17:50]--[2019-09-09 Mon 20:21] =>  2:31
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2625.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2626.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2627.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2628.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2629.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2630.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2631.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2632.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2633.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2634.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2635.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2636.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2637.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2638.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2639.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2640.jpg]]
+* [2019-09-10 Tue] Right wing / wing tip
+  CLOCK: [2019-09-10 Tue 14:00]--[2019-09-10 Tue 16:00] =>  2:00
+  - http://www.massstol.com/Zenith-CH750/16wingtips
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2641.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2642.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2643.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2644.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2645.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2646.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2647.jpg]]
+* [2019-09-11 Wed] Right wing / top skins / deburring
+  CLOCK: [2019-09-11 Wed 22:27]--[2019-09-12 Thu 00:24] =>  1:57
+  CLOCK: [2019-09-11 Wed 17:23]--[2019-09-11 Wed 19:35] =>  2:12
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2649.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2650.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2651.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2652.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2653.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2654.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2655.jpg]]
+* [2019-09-12 Thu] Right wing / top skins / deburring
+  CLOCK: [2019-09-12 Thu 22:13]--[2019-09-12 Thu 23:33] =>  1:20
+  CLOCK: [2019-09-12 Thu 18:15]--[2019-09-12 Thu 19:13] =>  0:58
+
+* [2019-09-13 Fri] Right wing / top skins / deburring
+  CLOCK: [2019-09-13 Fri 11:55]--[2019-09-13 Fri 12:27] =>  0:32
+* [2019-09-14 Sat] Right wing / top skins / primer prep
+  CLOCK: [2019-09-14 Sat 14:38]--[2019-09-14 Sat 15:07] =>  0:29
+  CLOCK: [2019-09-14 Sat 11:44]--[2019-09-14 Sat 14:30] =>  2:46
+* [2019-09-15 Sun] Right wing / top skins / prime and reassemble
+  CLOCK: [2019-09-15 Sun 20:56]--[2019-09-15 Sun 23:46] =>  2:50
+  CLOCK: [2019-09-15 Sun 13:20]--[2019-09-15 Sun 14:22] =>  1:02
+  CLOCK: [2019-09-15 Sun 11:20]--[2019-09-15 Sun 12:20] =>  1:00
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2658.jpg]]
+* [2019-09-16 Mon] Right wing / top skins / riveting
+  CLOCK: [2019-09-16 Mon 09:25]--[2019-09-16 Mon 11:49] =>  2:24
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2659.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2661.jpg]]
+
+* [2019-09-23 Mon] Right wing / finish & storage
+  CLOCK: [2019-09-23 Mon 18:47]--[2019-09-23 Mon 20:02] =>  1:15
+  CLOCK: [2019-09-23 Mon 13:50]--[2019-09-23 Mon 14:51] =>  1:01
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2717.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2718.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2719.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2720.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2721.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2722.jpg]]
+* [2019-09-24 Tue] Right wing / storage
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2724.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2725.jpg]]
+
+* [2019-09-29 Sun] Left wing / skeleton
+  CLOCK: [2019-09-29 Sun 17:02]--[2019-09-29 Sun 17:57] =>  0:55
+  CLOCK: [2019-09-29 Sun 09:55]--[2019-09-29 Sun 15:09] =>  5:14
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2737.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2738.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2739.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2740.jpg]]
+* [2019-09-30 Mon] Left wing / skeleton
+  CLOCK: [2019-09-30 Mon 19:05]--[2019-09-30 Mon 19:40] =>  0:35
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2741.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2742.jpg]]
+* [2019-10-01 Tue] Left wing / skeleton / deburring
+  CLOCK: [2019-10-01 Tue 19:30]--[2019-10-01 Tue 23:06] =>  3:36
+  CLOCK: [2019-10-01 Tue 16:00]--[2019-10-01 Tue 16:38] =>  0:38
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2743.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2744.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2745.jpg]]
+* [2019-10-02 Wed] Left wing / skeleton / prime
+  CLOCK: [2019-10-02 Wed 15:43]--[2019-10-02 Wed 20:04] =>  4:21
+* [2019-10-03 Thu] Left wing / skeleton / prime
+  CLOCK: [2019-10-03 Thu 18:30]--[2019-10-03 Thu 21:35] =>  3:05
+
+* [2019-10-04 Fri] Left wing / skeleton / riveting
+  CLOCK: [2019-10-04 Fri 17:53]--[2019-10-04 Fri 21:25] =>  3:32
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2749.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2750.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2751.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2752.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2753.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2754.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2755.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2756.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2757.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2758.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2759.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2760.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2761.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2762.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2763.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2764.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2765.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2766.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2767.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2768.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2769.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2770.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2771.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2772.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2773.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2774.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2775.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2776.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2777.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2778.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2779.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2780.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2781.jpg]]
+* [2019-10-09 Wed] Left wing / bottom skin
+  CLOCK: [2019-10-09 Wed 19:20]--[2019-10-09 Wed 20:30] =>  1:10
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2787.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2788.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2789.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2790.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2791.jpg]]
+* [2019-10-10 Thu] Left wing / bottom skin
+  CLOCK: [2019-10-10 Thu 17:19]--[2019-10-10 Thu 19:14] =>  1:55
+  CLOCK: [2019-10-10 Thu 15:49]--[2019-10-10 Thu 17:06] =>  1:17
+  CLOCK: [2019-10-10 Thu 11:30]--[2019-10-10 Thu 13:14] =>  1:44
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2792.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2793.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2794.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2795.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2796.jpg]]
+* [2019-10-12 Sat] Left wing / trailing edge skins
+  CLOCK: [2019-10-12 Sat 15:32]--[2019-10-12 Sat 16:34] =>  1:02
+  CLOCK: [2019-10-12 Sat 11:29]--[2019-10-12 Sat 12:20] =>  0:51
+  CLOCK: [2019-10-12 Sat 10:19]--[2019-10-12 Sat 10:53] =>  0:34
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2797.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2798.jpg]]
+* [2019-10-13 Sun] Left wing / bottom skins / deburring
+  CLOCK: [2019-10-13 Sun 19:51]--[2019-10-13 Sun 21:29] =>  1:38
+  CLOCK: [2019-10-13 Sun 11:38]--[2019-10-13 Sun 16:06] =>  4:28
+  CLOCK: [2019-10-13 Sun 11:22]--[2019-10-13 Sun 11:28] =>  0:06
+  CLOCK: [2019-10-13 Sun 10:23]--[2019-10-13 Sun 10:55] =>  0:32
+* [2019-10-14 Mon] Left wing / bottom skins / priming
+  CLOCK: [2019-10-14 Mon 17:27]--[2019-10-14 Mon 19:13] =>  1:46
+* [2019-10-15 Tue] Left wing / bottom skins / priming
+  CLOCK: [2019-10-15 Tue 18:18]--[2019-10-15 Tue 19:36] =>  1:18
+* [2019-10-16 Wed] Left wing / bottom skins / priming
+  CLOCK: [2019-10-16 Wed 19:29]--[2019-10-16 Wed 20:44] =>  1:15
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2801.jpg]]
+* [2019-10-19 Sat] Left wing / bottom skins / riveting
+  CLOCK: [2019-10-19 Sat 22:36]--[2019-10-19 Sat 23:30] =>  0:54
+  CLOCK: [2019-10-19 Sat 18:31]--[2019-10-19 Sat 20:46] =>  2:15
+  CLOCK: [2019-10-19 Sat 12:18]--[2019-10-19 Sat 13:34] =>  1:16
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2803.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2804.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2805.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2806.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2807.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2808.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2809.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2810.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2811.jpg]]
+* [2019-10-20 Sun] Left wing / flaperon arms
+  CLOCK: [2019-10-20 Sun 12:00]--[2019-10-20 Sun 13:27] =>  1:27
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2812.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2813.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2814.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2815.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2816.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2817.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2818.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2819.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2820.jpg]]
+* [2019-10-21 Mon] Left wing / flaperon arms
+  CLOCK: [2019-10-21 Mon 18:48]--[2019-10-21 Mon 19:50] =>  1:02
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2840.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2841.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2842.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2843.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2844.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2845.jpg]]
+* [2019-10-22 Tue] Left wing / top skins
+  CLOCK: [2019-10-22 Tue 21:24]--[2019-10-22 Tue 22:35] =>  1:11
+  CLOCK: [2019-10-22 Tue 18:48]--[2019-10-22 Tue 20:13] =>  1:25
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2927.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2928.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2929.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2930.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2931.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2932.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2933.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2934.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2935.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2936.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2937.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2938.jpg]]
+* [2019-11-09 Sat] Left wing / top skins
+  CLOCK: [2019-11-09 Sat 18:13]--[2019-11-09 Sat 21:46] =>  3:33
+  CLOCK: [2019-11-09 Sat 12:54]--[2019-11-09 Sat 13:50] =>  0:56
+  CLOCK: [2019-11-09 Sat 11:35]--[2019-11-09 Sat 11:43] =>  0:08
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2939.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2940.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2941.jpg]]
+* [2019-11-09 Sat] Left wing / nose skins
+  CLOCK: [2019-11-10 Sun 09:47]--[2019-11-10 Sun 10:49] =>  1:02
+* [2019-11-11 Mon] Left wing / nose skins
+  CLOCK: [2019-11-11 Mon 13:59]--[2019-11-11 Mon 16:59] =>  3:00
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2944.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2945.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2946.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2947.jpg]]
+* [2019-11-12 Tue] Left wing / root skins
+  CLOCK: [2019-11-12 Tue 17:41]--[2019-11-12 Tue 19:42] =>  2:01
+  CLOCK: [2019-11-12 Tue 14:47]--[2019-11-12 Tue 17:05] =>  2:18
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2948.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2949.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2950.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2951.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2952.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2953.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2954.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2955.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2956.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2957.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2958.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2959.jpg]]
+* [2019-11-14 Thu] Left wing / wing tip
+  CLOCK: [2019-11-14 Thu 19:26]--[2019-11-14 Thu 20:50] =>  1:24
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2963.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2964.jpg]]
+* [2019-11-16 Sat] Left wing / wing tip
+  CLOCK: [2019-11-16 Sat 17:01]--[2019-11-16 Sat 17:39] =>  0:38
+  CLOCK: [2019-11-16 Sat 15:20]--[2019-11-16 Sat 17:01] =>  1:41
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2966.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2967.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2968.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2969.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2970.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2971.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2972.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2973.jpg]]
+* [2019-11-17 Sun] Left wing / top skins / deburring
+  CLOCK: [2019-11-17 Sun 12:14]--[2019-11-17 Sun 16:19] =>  4:05
+* [2019-11-20 Wed] Left wing / top skins / deburring
+  CLOCK: [2019-11-20 Wed 18:05]--[2019-11-20 Wed 19:43] =>  1:38
+
+* [2019-11-21 Thu] Left wing / top skins / priming
+  CLOCK: [2019-11-21 Thu 19:13]--[2019-11-21 Thu 20:15] =>  1:02
+* [2019-11-23 Sat] Left wing / top skins / priming
+  CLOCK: [2019-11-23 Sat 19:33]--[2019-11-23 Sat 22:10] =>  2:37
+  CLOCK: [2019-11-23 Sat 13:10]--[2019-11-23 Sat 15:03] =>  1:53
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2974.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2975.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2976.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2977.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2978.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2979.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2980.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2981.jpg]]
+* [2019-11-24 Sun] Left wing / finish & storage
+  CLOCK: [2019-11-24 Sun 15:27]--[2019-11-24 Sun 15:55] =>  0:28
+  CLOCK: [2019-11-24 Sun 14:45]--[2019-11-24 Sun 15:12] =>  0:27
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2985.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2986.jpg]]
+* [2019-11-26 Tue] Right slats
+  CLOCK: [2019-11-26 Tue 20:20]--[2019-11-26 Tue 20:43] =>  0:23
+  CLOCK: [2019-11-26 Tue 19:13]--[2019-11-26 Tue 20:09] =>  0:56
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2987.jpg]]
+* [2019-12-02 Mon] Right slats
+  CLOCK: [2019-12-02 Mon 18:27]--[2019-12-02 Mon 20:22] =>  1:55
+* [2019-12-03 Tue] Right slats
+  CLOCK: [2019-12-03 Tue 17:20]--[2019-12-03 Tue 21:54] =>  4:34
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2991.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2992.jpg]]
+* [2019-12-04 Wed] Right slats
+  CLOCK: [2019-12-04 Wed 12:48]--[2019-12-04 Wed 13:42] =>  0:54
+  CLOCK: [2019-12-04 Wed 11:29]--[2019-12-04 Wed 12:05] =>  0:36
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2993.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2994.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2995.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2996.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2997.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2998.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_2999.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3001.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3002.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3003.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3004.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3005.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3006.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3007.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3008.jpg]]
+* [2019-12-07 Sat] Right slats
+  CLOCK: [2019-12-08 Sun 00:19]--[2019-12-08 Sun 01:20] =>  1:01
+  CLOCK: [2019-12-07 Sat 21:00]--[2019-12-08 Sun 00:17] =>  3:17
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3011.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3012.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3013.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3014.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3015.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3016.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3017.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3018.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3019.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3020.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3021.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3022.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3023.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3024.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3025.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3026.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3027.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3028.jpg]]
+* [2019-12-08 Sun] Right slats
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3029.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3030.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3031.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3032.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3033.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3034.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3035.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3036.jpg]]
+* [2019-12-10 Tue] Right slats / prime & finish
+  CLOCK: [2019-12-10 Tue 22:21]--[2019-12-11 Wed 00:33] =>  2:12
+  CLOCK: [2019-12-10 Tue 16:21]--[2019-12-10 Tue 16:55] =>  0:34
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3039.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3040.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3041.jpg]]
+* [2019-12-11 Wed] Right slats / prime & finish
+  CLOCK: [2019-12-11 Wed 14:00]--[2019-12-11 Wed 15:30] =>  1:30
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3042.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3043.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3045.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3046.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3047.jpg]]
+* [2019-12-12 Thu] Left slats
+  CLOCK: [2019-12-12 Thu 21:58]--[2019-12-12 Thu 23:52] =>  1:54
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3048.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3049.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3050.jpg]]
+* [2019-12-14 Sat] Left slats
+  CLOCK: [2019-12-14 Sat 19:03]--[2019-12-14 Sat 20:30] =>  1:27
+  CLOCK: [2019-12-14 Sat 18:12]--[2019-12-14 Sat 18:54] =>  0:42
+  CLOCK: [2019-12-14 Sat 12:24]--[2019-12-14 Sat 15:12] =>  2:48
+  CLOCK: [2019-12-14 Sat 10:59]--[2019-12-14 Sat 11:23] =>  0:24
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3052.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3053.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3054.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3055.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3056.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3057.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3058.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3059.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3060.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3061.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3062.jpg]]
+* [2019-12-22 Sun] Left slats / prime & finish
+  CLOCK: [2019-12-22 Sun 19:50]--[2019-12-22 Sun 22:17] =>  2:27
+  CLOCK: [2019-12-22 Sun 12:28]--[2019-12-22 Sun 15:27] =>  2:59
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3077.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3078.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3079.jpg]]
+* [2019-12-23 Mon] Left slats / slat tips
+  CLOCK: [2019-12-23 Mon 16:15]--[2019-12-23 Mon 18:41] =>  2:26
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3080.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3081.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3082.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3083.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3084.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3085.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3086.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3087.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3088.jpg]]
+* [2019-12-28 Sat] Right flaperons
+  CLOCK: [2019-12-28 Sat 21:28]--[2019-12-29 Sun 00:20] =>  2:52
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3094.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3095.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3096.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3097.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3098.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3099.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3101.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3102.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3103.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3104.jpg]]
+* [2019-12-29 Sun] Right flaperons
+  CLOCK: [2019-12-29 Sun 19:44]--[2019-12-29 Sun 20:58] =>  1:14
+  CLOCK: [2019-12-29 Sun 16:05]--[2019-12-29 Sun 16:43] =>  0:38
+  CLOCK: [2019-12-29 Sun 13:55]--[2019-12-29 Sun 14:18] =>  0:23
+  CLOCK: [2019-12-29 Sun 11:24]--[2019-12-29 Sun 13:34] =>  2:10
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3106.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3107.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3108.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3109.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3133.jpg]]
+* [2019-12-30 Mon] Right flaperons
+  CLOCK: [2019-12-30 Mon 22:42]--[2019-12-30 Mon 23:17] =>  0:35
+  CLOCK: [2019-12-30 Mon 19:27]--[2019-12-30 Mon 22:26] =>  2:59
+  CLOCK: [2019-12-30 Mon 18:44]--[2019-12-30 Mon 18:59] =>  0:15
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3207.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3208.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3209.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3210.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3211.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3212.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3213.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3214.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3215.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3216.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3217.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3218.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3219.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3220.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3221.jpg]]
+* [2019-12-31 Tue] Right flaperons
+  CLOCK: [2019-12-31 Tue 16:01]--[2019-12-31 Tue 17:20] =>  1:19
+  CLOCK: [2019-12-31 Tue 14:36]--[2019-12-31 Tue 15:33] =>  0:57
+  CLOCK: [2019-12-31 Tue 11:20]--[2019-12-31 Tue 13:46] =>  2:26
+* [2020-01-01 Wed] Left flaperons
+  CLOCK: [2020-01-01 Wed 23:54]--[2020-01-02 Thu 00:19] =>  0:25
+  CLOCK: [2020-01-01 Wed 22:10]--[2020-01-01 Wed 23:41] =>  1:31
+  CLOCK: [2020-01-01 Wed 21:13]--[2020-01-01 Wed 22:05] =>  0:52
+  CLOCK: [2020-01-01 Wed 21:01]--[2020-01-01 Wed 21:02] =>  0:01
+* [2020-01-02 Thu] Left flaperons
+  CLOCK: [2020-01-02 Thu 21:07]--[2020-01-02 Thu 23:21] =>  2:14
+  CLOCK: [2020-01-02 Thu 19:15]--[2020-01-02 Thu 20:06] =>  0:51
+  CLOCK: [2020-01-02 Thu 16:01]--[2020-01-02 Thu 16:26] =>  0:25
+  CLOCK: [2020-01-02 Thu 13:34]--[2020-01-02 Thu 14:00] =>  0:26
+  CLOCK: [2020-01-02 Thu 10:20]--[2020-01-02 Thu 11:38] =>  1:18
+* [2020-01-03 Fri] Left flaperons
+  CLOCK: [2020-01-03 Fri 21:16]--[2020-01-04 Sat 03:17] =>  6:01
+  CLOCK: [2020-01-03 Fri 15:59]--[2020-01-03 Fri 16:18] =>  0:19
+  CLOCK: [2020-01-03 Fri 12:37]--[2020-01-03 Fri 13:13] =>  0:36
+  CLOCK: [2020-01-03 Fri 10:38]--[2020-01-03 Fri 11:09] =>  0:31
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3222.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3223.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3224.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3226.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3227.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3228.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3229.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3230.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3231.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3232.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3233.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3234.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3235.jpg]]
+* [2020-01-09 Thu] Rear fuselage / bottom skin
+  CLOCK: [2020-01-09 Thu 21:35]--[2020-01-09 Thu 23:05] =>  1:30
+  CLOCK: [2020-01-09 Thu 18:42]--[2020-01-09 Thu 21:21] =>  2:39
+  CLOCK: [2020-01-09 Thu 14:07]--[2020-01-09 Thu 15:07] =>  1:00
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3250.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3251.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3252.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3253.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3254.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3255.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3256.JPEG]]
+* [2020-01-10 Fri] Rear fuselage / bottom skin
+  CLOCK: [2020-01-10 Fri 23:20]--[2020-01-11 Sat 02:17] =>  2:57
+  CLOCK: [2020-01-10 Fri 14:24]--[2020-01-10 Fri 17:02] =>  2:38
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3257.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3258.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3259.JPEG]]
+
+* [2020-01-11 Sat] Rear fuselage / bottom skin
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3260.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3261.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3262.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3263.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3264.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3265.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3266.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3267.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3268.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3269.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3270.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3271.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3272.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3273.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3274.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3275.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3276.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3277.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3278.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3279.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3280.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3281.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3282.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3283.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3284.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3285.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3286.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3287.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3288.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3289.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3290.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3291.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3292.JPEG]]
+
+* [2020-01-13 Mon] Rear fuselage / side skins
+  CLOCK: [2020-01-13 Mon 17:20]--[2020-01-13 Mon 21:11] =>  3:51
+  CLOCK: [2020-01-13 Mon 11:14]--[2020-01-13 Mon 11:48] =>  0:34
+
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3294.JPEG]]
+
+* [2020-01-15 Wed] Rear fuselage / side skins
+  CLOCK: [2020-01-15 Wed 20:59]--[2020-01-15 Wed 22:28] =>  1:29
+  CLOCK: [2020-01-15 Wed 18:24]--[2020-01-15 Wed 20:30] =>  2:06
+* [2020-01-16 Thu] Rear fuselage / side skins
+  CLOCK: [2020-01-16 Thu 22:36]--[2020-01-16 Thu 23:05] =>  0:29
+  CLOCK: [2020-01-16 Thu 20:22]--[2020-01-16 Thu 22:26] =>  2:04
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3297.JPEG]]
+
+* [2020-01-17 Fri] Rear fuselage / top skin
+  CLOCK: [2020-01-17 Fri 20:15]--[2020-01-18 Sat 00:45] =>  4:30
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3299.JPEG]]
+
+* [2020-01-18 Sat] Rear fuselage / assembly
+  CLOCK: [2020-01-18 Sat 20:53]--[2020-01-18 Sat 23:03] =>  2:10
+  CLOCK: [2020-01-18 Sat 18:29]--[2020-01-18 Sat 19:56] =>  1:27
+
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3300.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3301.JPEG]]
+
+* [2020-01-19 Sun] Rear fuselage / assembly
+  CLOCK: [2020-01-19 Sun 22:10]--[2020-01-19 Sun 22:50] =>  0:40
+  CLOCK: [2020-01-19 Sun 15:40]--[2020-01-19 Sun 16:32] =>  0:52
+  CLOCK: [2020-01-19 Sun 11:07]--[2020-01-19 Sun 11:46] =>  0:39
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3305.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3306.JPEG]]
+
+* [2020-01-21 Tue] Rear fuselage / assembly
+  CLOCK: [2020-01-21 Tue 22:08]--[2020-01-22 Wed 00:58] =>  2:50
+  CLOCK: [2020-01-21 Tue 20:45]--[2020-01-21 Tue 22:02] =>  1:17
+  CLOCK: [2020-01-21 Tue 12:09]--[2020-01-21 Tue 12:47] =>  0:38
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3309.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3310.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3311.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3312.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3313.JPEG]]
+
+* [2020-01-22 Wed] Rear fuselage / assembly
+  CLOCK: [2020-01-22 Wed 21:34]--[2020-01-22 Wed 22:47] =>  1:13
+  CLOCK: [2020-01-22 Wed 16:53]--[2020-01-22 Wed 17:21] =>  0:28
+
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3315.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3318.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3319.JPEG]]
+
+* [2020-01-23 Thu] Rear fuselage / assembly
+  CLOCK: [2020-01-23 Thu 20:33]--[2020-01-23 Thu 21:48] =>  1:15
+  CLOCK: [2020-01-23 Thu 19:55]--[2020-01-23 Thu 20:03] =>  0:08
+  CLOCK: [2020-01-23 Thu 19:02]--[2020-01-23 Thu 19:37] =>  0:35
+  CLOCK: [2020-01-23 Thu 15:40]--[2020-01-23 Thu 16:33] =>  0:53
+  CLOCK: [2020-01-23 Thu 14:52]--[2020-01-23 Thu 15:22] =>  0:30
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3320.JPEG]]
+
+* [2020-01-30 Thu] Rear fuselage / assembly
+  CLOCK: [2020-01-30 Thu 19:37]--[2020-01-30 Thu 20:53] =>  1:16
+  CLOCK: [2020-01-30 Thu 14:37]--[2020-01-30 Thu 14:59] =>  0:22
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3323.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3324.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3325.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3326.JPEG]]
+
+* [2020-01-31 Fri] Rear fuselage / assembly
+  CLOCK: [2020-02-01 Sat 22:46]--[2020-02-01 Sat 23:45] =>  0:59
+  CLOCK: [2020-02-01 Sat 22:09]--[2020-02-01 Sat 22:45] =>  0:36
+  CLOCK: [2020-01-31 Fri 22:44]--[2020-01-31 Fri 22:55] =>  0:11
+  CLOCK: [2020-01-31 Fri 21:03]--[2020-01-31 Fri 22:10] =>  1:07
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3327.JPEG]]
+
+* [2020-02-01 Sat] Rear fuselage / assembly
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3328.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3329.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3330.JPEG]]
+
+* [2020-02-02 Sun] Baggage compartment / part prep
+  CLOCK: [2020-02-02 Sun 21:44]--[2020-02-02 Sun 22:10] =>  0:26
+  CLOCK: [2020-02-02 Sun 20:36]--[2020-02-02 Sun 21:43] =>  1:07
+* [2020-02-04 Tue] Baggage compartment / part prep
+  CLOCK: [2020-02-04 Tue 20:00]--[2020-02-05 Wed 00:05] =>  4:05
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3332.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3333.JPEG]]
+
+* [2020-02-05 Wed] Baggage compartment / part prep
+  CLOCK: [2020-02-05 Wed 20:06]--[2020-02-05 Wed 22:06] =>  2:00
+* [2020-02-06 Thu] Baggage compartment / part prep
+  CLOCK: [2020-02-06 Thu 18:10]--[2020-02-06 Thu 20:25] =>  2:15
+
+* [2020-02-07 Fri] Baggage compartment / part prep
+  CLOCK: [2020-02-07 Fri 20:43]--[2020-02-07 Fri 22:49] =>  2:06
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3334.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3335.JPEG]]
+
+* [2020-02-08 Sat] Baggage compartment / assembly
+  CLOCK: [2020-02-08 Sat 23:40]--[2020-02-09 Sun 01:15] =>  1:35
+  CLOCK: [2020-02-08 Sat 21:20]--[2020-02-08 Sat 22:09] =>  0:49
+  CLOCK: [2020-02-08 Sat 20:31]--[2020-02-08 Sat 21:01] =>  0:30
+  CLOCK: [2020-02-07 Fri 23:34]--[2020-02-08 Sat 01:25] =>  1:51
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3336.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3337.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3338.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3339.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3340.JPEG]]
+
+* [2020-02-09 Sun] Baggage compartment / assembly
+  CLOCK: [2020-02-09 Sun 15:00]--[2020-02-09 Sun 15:38] =>  0:38
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3341.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3342.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3343.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3344.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3345.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3346.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3347.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3348.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3349.JPEG]]
+
+* [2020-02-12 Wed] Baggage compartment / assembly
+  CLOCK: [2020-02-12 Wed 20:36]--[2020-02-12 Wed 21:20] =>  0:44
+  CLOCK: [2020-02-12 Wed 18:35]--[2020-02-12 Wed 20:36] =>  2:01
+
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3353.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3354.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3355.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3356.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3357.JPEG]]
+
+* [2020-02-13 Thu] Baggage compartment / assembly
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3358.JPEG]]
+
+* [2020-03-13 Fri] Forward fuselage / assembly
+  CLOCK: [2020-03-13 Fri 20:48]--[2020-03-13 Fri 22:26] =>  1:38
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3369.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3370.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3371.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3372.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3373.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3374.JPEG]]
+
+* [2020-03-14 Sat] Forward fuselage / initial assembly
+  CLOCK: [2020-03-14 Sat 22:07]--[2020-03-15 Sun 00:09] =>  2:02
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3375.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3376.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3377.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3378.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3379.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3380.JPEG]]
+
+* [2020-03-15 Sun] Forward fuselage / initial assembly
+  CLOCK: [2020-03-15 Sun 13:49]--[2020-03-15 Sun 15:06] =>  1:17
+  CLOCK: [2020-03-15 Sun 12:13]--[2020-03-15 Sun 13:21] =>  1:08
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3381.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3382.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3383.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3384.JPEG]]
+
+* [2020-03-16 Mon] Forward fuselage / deburr & prime
+  CLOCK: [2020-03-16 Mon 20:47]--[2020-03-16 Mon 23:09] =>  2:22
+  CLOCK: [2020-03-16 Mon 19:03]--[2020-03-16 Mon 19:48] =>  0:45
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3385.JPEG]]
+
+* [2020-03-21 Sat] Forward fuselage / deburr & prime
+  CLOCK: [2020-03-21 Sat 12:22]--[2020-03-21 Sat 13:38] =>  1:16
+  CLOCK: [2020-03-21 Sat 10:02]--[2020-03-21 Sat 11:20] =>  1:18
+* [2020-03-26 Thu] Forward fuselage / deburr & prime
+  CLOCK: [2020-03-26 Thu 20:38]--[2020-03-26 Thu 21:53] =>  1:15
+* [2020-03-27 Fri] Forward fuselage / assembly
+  CLOCK: [2020-03-27 Fri 18:25]--[2020-03-27 Fri 20:43] =>  2:18
+  CLOCK: [2020-03-27 Fri 16:26]--[2020-03-27 Fri 17:25] =>  0:59
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3395.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3396.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3397.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3398.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3399.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3400.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3401.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3402.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3403.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3404.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3405.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3406.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3407.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3408.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3409.JPEG]]
+
+* [2020-03-28 Sat] Forward fuselage / assembly
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3414.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3415.JPEG]]
+
+* [2020-03-29 Sun] Firewall / initial assembly
+  CLOCK: [2020-03-29 Sun 22:45]--[2020-03-30 Mon 00:08] =>  1:23
+  CLOCK: [2020-03-29 Sun 18:05]--[2020-03-29 Sun 18:30] =>  0:25
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3417.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3418.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3419.JPEG]]
+
+* [2020-03-30 Mon] Firewall / deburr
+  CLOCK: [2020-03-30 Mon 17:54]--[2020-03-30 Mon 19:10] =>  1:16
+  CLOCK: [2020-03-30 Mon 17:16]--[2020-03-30 Mon 17:51] =>  0:35
+* [2020-03-31 Tue] Firewall / deburr
+  CLOCK: [2020-03-31 Tue 15:44]--[2020-03-31 Tue 16:45] =>  1:01
+* [2020-04-04 Sat] Firewall / priming & final assembly
+  CLOCK: [2020-04-04 Sat 21:37]--[2020-04-05 Sun 01:41] =>  4:04
+  CLOCK: [2020-04-04 Sat 15:51]--[2020-04-04 Sat 16:46] =>  0:55
+  CLOCK: [2020-04-04 Sat 13:17]--[2020-04-04 Sat 15:43] =>  2:26
+* [2020-04-05 Sun] Firewall / final assembly
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3421.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3422.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3423.JPEG]]
+
+* [2020-04-09 Thu] Steel parts, prepare for powder coating
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3427.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3428.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3429.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3430.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3431.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3432.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3433.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3434.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3435.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3436.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3437.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3439.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3440.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3441.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3442.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3443.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3444.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3445.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3446.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3447.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3448.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3449.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3450.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3452.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3453.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3454.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3455.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3456.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3457.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3458.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3459.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3460.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3461.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3462.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3463.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3464.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3465.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3466.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3467.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3468.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3469.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3470.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3471.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3472.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3473.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3475.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3476.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3477.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3478.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3479.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3480.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3481.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3482.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3483.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3484.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3485.JPEG]]
+
+* [2020-04-17 Fri] Install trim tab hinge
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3491.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3492.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3493.JPEG]]
+
+* [2020-04-19 Sun] Receive engine
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3494.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3495.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3496.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3497.JPEG]]
+
+* [2020-04-20 Mon] Unbox engine, mount on stand
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3498.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3499.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3500.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3501.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3502.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3503.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3504.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3505.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3506.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3507.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3508.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3509.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3512.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3513.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3514.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3515.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3516.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3517.JPEG]]
+
+* [2020-04-27 Mon] Receive and place powdercoat parts
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3521.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3522.JPEG]]
+
+* [2020-04-30 Thu] Fuselage / prepare for cabin frame
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3546.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3547.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3548.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3549.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3550.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3551.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3552.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3553.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3554.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3555.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3556.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3557.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3558.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3559.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3560.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3561.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3562.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3563.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3564.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3565.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3566.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3567.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3568.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3569.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3570.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3571.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3572.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3573.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3574.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3575.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3576.JPEG]]
+
+* [2020-05-01 Fri] Fuselage / cabin frame
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3581.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3582.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3583.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3584.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3585.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3586.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3587.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3588.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3589.JPEG]]
+
+* [2020-05-02 Sat] Fuselage / cabin frame
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3590.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3591.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3592.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3593.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3594.JPEG]]
+
+* [2020-05-03 Sun] Fuselage / cabin frame & firewall
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3595.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3596.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3597.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3598.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3599.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3600.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3601.JPEG]]
+
+* [2020-05-04 Mon] Fuselage / cabin frame & firewall
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3602.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3603.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3604.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3605.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3606.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3607.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3608.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3609.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3610.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3611.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3612.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3613.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3614.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3615.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3616.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3617.JPEG]]
+
+* [2020-05-09 Sat] Fuselage / main gear brackets
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3626.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3627.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3628.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3629.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3630.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3631.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3632.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3633.JPEG]]
+
+* [2020-05-10 Sun] Fuselage / glare shield & control panel
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3634.JPEG]]
+
+* [2020-05-14 Thu] Fuselage / main gear channel stiffeners
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3658.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3659.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3660.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3661.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3662.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3663.JPEG]]
+
+* [2020-05-15 Fri] Fuselage / main gear brackets
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3666.JPEG]]
+
+* [2020-05-17 Sun] Fuselage / cabin frame anti-corrosion
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3669.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3670.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3671.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3672.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3673.JPEG]]
+
+* [2020-05-20 Wed] Fuselage / cabin frame prep
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3678.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3679.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3680.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3681.JPEG]]
+
+* [2020-05-21 Thu] Fuselage / cabin frame anti-corrosion
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3682.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3683.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3684.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3685.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3687.JPEG]]
+
+* [2020-05-22 Fri] Fuselage / cabin frame anti-corrosion
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3689.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3690.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3691.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3692.JPEG]]
+
+* [2020-05-23 Sat] Fuselage / seat structure
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3693.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3694.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3695.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3696.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3697.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3698.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3699.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3700.JPEG]]
+
+* [2020-05-24 Sun] Fuselage / seat structure
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3701.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3702.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3703.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3704.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3705.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3706.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3707.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3708.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3709.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3710.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3711.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3712.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3713.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3714.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3715.JPEG]]
+
+* [2020-05-26 Tue] Fuselage / install gear mount brackets
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3717.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3718.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3719.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3720.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3722.JPEG]]
+
+* [2020-05-31 Sun] Fuselage / nose gear structure
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3726.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3727.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3728.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3729.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3730.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3731.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3732.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3733.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3734.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3735.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3736.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3737.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3738.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3739.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3740.JPEG]]
+
+* [2020-06-01 Mon] Fuselage / nose gear structure
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3741.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3742.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3743.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3744.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3745.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3746.JPEG]]
+
+* [2020-06-02 Tue] Fuselage / nose gear fork
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3747.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3748.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3749.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3750.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3751.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3752.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3753.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3754.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3755.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3756.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3757.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3758.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3759.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3760.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3761.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3762.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3763.JPEG]]
+
+* [2020-06-04 Thu] Fuselage / nose gear
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3764.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3765.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3766.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3767.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3768.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3769.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3770.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3771.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3772.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3773.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3774.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3775.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3776.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3777.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3778.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3779.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3780.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3781.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3782.JPEG]]
+* [2020-06-05 Fri] Fuselage / main gear
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3790.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3792.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3793.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3794.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3795.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3796.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3797.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3798.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3799.JPEG]]
+
+* [2020-06-06 Sat] Matco wheels
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3801.JPEG]]
+
+* [2020-06-12 Fri] Matco wheels
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3804.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3805.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3806.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3807.JPEG]]
+
+* [2020-06-13 Sat] Fuselage / main gear
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3808.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3809.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3810.JPEG]]
+
+* [2020-06-14 Sun] Fuselage / main and nose gear installed
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3811.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3812.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3813.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3814.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3815.JPEG]]
+
+* [2020-06-18 Thu] Controls / flaperon torque tube
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3816.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3817.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3818.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3819.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3820.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3821.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3822.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3823.JPEG]]
+
+* [2020-06-19 Fri] Controls / flap motor
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3824.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3825.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3826.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3827.JPEG]]
+
+* [2020-06-20 Sat] Controls / anti-corrosion, prep
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3828.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3829.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3830.JPEG]]
+
+* [2020-06-21 Sun] Controls / flaperon torque tube
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3836.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3837.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3838.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3839.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3840.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3841.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3842.JPEG]]
+
+* [2020-06-22 Mon] Controls / stick & flaperons
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3843.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3844.JPEG]]
+* [2020-06-23 Tue] Controls / elevator bellcrank
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3847.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3848.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3849.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3850.JPEG]]
+
+* [2020-06-25 Thu] Controls / rudder pedals
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3851.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3852.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3853.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3854.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3855.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3856.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3857.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3858.JPEG]]
+
+* [2020-06-29 Mon] Fuselage / seatbelt attachments & seat pans
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3859.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3860.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3861.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3862.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3863.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3864.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3865.JPEG]]
+
+* [2020-07-02 Thu] Fuselage / seat pans
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3870.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3871.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3872.JPG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3873.JPEG]]
+
+* [2020-07-05 Sun] Fuselage / seats
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3885.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3886.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3887.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3888.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3889.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3890.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3891.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3892.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3893.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3894.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3895.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3896.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3897.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3898.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3899.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3900.JPEG]]
+
+* [2020-07-12 Sun] Fuselage / door & top window structure
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3917.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3919.JPEG]]
+
+* [2020-07-15 Wed] Fuselage / riveting
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3920.JPEG]]
+
+* [2020-07-17 Fri] FWF / engine mount
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3921.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3923.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3925.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3926.JPEG]]
+
+* [2020-07-19 Sun] FWF / engine mount
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3928.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3929.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3930.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3931.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3932.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3933.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3934.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3936.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3938.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3939.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3940.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3941.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3942.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3943.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3944.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3945.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3946.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3947.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3948.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3949.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3950.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3951.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3952.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3953.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3954.JPEG]]
+
+* [2020-07-21 Tue] FWF / engine mount to frame
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3955.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3956.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3957.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3958.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3959.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3960.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3961.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3962.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3963.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3965.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3966.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3967.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3968.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3969.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3971.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3972.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3974.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3975.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3977.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3978.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3979.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3980.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3981.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3984.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3985.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3986.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3987.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3988.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3989.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3990.JPEG]]
+
+* [2020-07-23 Thu] FWF / engine mount to frame
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3991.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/IMG_3993.JPEG]]
+
+* [2021-04-14 Wed] Fuselage / windshield rivnuts + brake lines
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/359c5c13-5bae-40c6-a2b4-7a339d0e640b_IMG_0060-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/69ff71ea-5c13-4cbc-b5c9-6e6bb209da61_IMG_0059.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9fb0bb4d-0eb9-4018-851f-e42cc997ce06_IMG_0056.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ade37b43-1d24-42aa-afdd-2f113eb116f4_IMG_0061.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cd90699f-0614-431a-a915-1d2e525b49e7_IMG_0057-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d010c489-0f89-481c-a33a-4e75dc473e3f_IMG_0058.JPEG]]
+
+* [2021-05-05 Wed] Systems / fuel lines
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/4b3b3e39-389c-41f2-ab94-6cb04ffa53b0_IMG_0134.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5fbab282-3466-4724-a122-ce3cebd4245c_IMG_0129.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/62abd736-f1ce-480a-aac1-33ff4a8189c9_IMG_0131.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/878d2d46-0d55-471a-81cf-b5e7172adc5b_IMG_0133.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8dd55d45-9e93-4197-ac3b-fcb185c71306_IMG_0130.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c31adda5-717e-4676-a773-1442dcf85d23_IMG_0135.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ee46293d-cc8a-4555-b526-9c17c65bf39a_IMG_0132.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f91ad571-fbe5-4044-ae95-786ef3c2d4bf_IMG_0128.JPEG]]
+
+* [2021-05-06 Thu] Systems / panel layout
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/15913dd7-68ab-4082-a4fa-c31aabdfe4e6_IMG_0136.JPEG]]
+
+* [2021-05-18 Tue] Systems / panel layout
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5864b44a-e112-4a41-927a-5b845cec2ef8_IMG_0143.JPEG]]
+
+* [2021-06-06 Sun] Systems / panel
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1ef6d276-475e-4a5a-ba40-d33277033661_IMG_0166.JPEG]]
+
+* [2021-06-09 Wed] Systems / panel
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/afb8139f-7252-475a-865a-5fc9d3d2fae0_IMG_0182.JPEG]]
+
+* [2021-06-10 Thu] Systems / panel
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/aaa36d92-9e96-4ad3-ae84-f98d945df17a_IMG_0188.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fb94f898-76cb-4567-9d8b-0873a6d4842a_IMG_0189.JPEG]]
+
+* [2021-06-20 Sun] Systems / electrical design
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/79a896c9-310e-43a2-aebc-f77a99ef6e15_IMG_0219.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ea1e9699-5c37-45b9-bb67-9ecc07ed472e_IMG_0218.JPEG]]
+
+* [2021-07-04 Sun] Systems / panel design & cut
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/884f733a-bf4a-4d87-b608-3bca552b62de_IMG_0014.JPG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/90e7da88-be32-4acb-b7cc-fca474f2604e_IMG_0016.JPG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e38ad55b-a394-499a-8e0c-912b19e540eb_IMG_0013.JPG]]
+
+* [2021-07-13 Tue] Systems / breaker install
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/470e1e65-0a00-4832-bc15-41165cf32c1a_IMG_0263.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e4da0847-d586-4953-a5eb-2a3813e63ad6_IMG_0261.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f43e3fcb-7e16-4454-ab01-bf24560972c0_IMG_0262.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fcf68267-041d-48d2-8634-7bf31e83ef31_IMG_0264.JPEG]]
+
+* [2021-07-16 Fri] Systems / electrical system design
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/03e55537-6d0d-40f4-bb3c-bae506b1a03a_IMG_0271.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/78581172-e336-4ac1-ade4-a6514f32d156_IMG_0269.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7d4c8b54-73ee-4c9a-af20-002a1a66b4ed_IMG_0268-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8d3ff4df-0c64-4cc3-8cee-ffa5f88412ad_IMG_0272.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/905c72df-057e-49ae-ba67-cef25a33bca0_IMG_0270.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bf5a7b88-f587-4da8-9c5f-24fb87aadab8_IMG_0267.JPEG]]
+
+* [2021-07-20 Tue] Systems / panel
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/32567528-f8e9-4f57-a735-d1bfcbfdb4cd_IMG_0273.JPEG]]
+
+* [2021-07-21 Wed] Systems / fuel lines & electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3d165cb2-d219-4630-9fd9-22996aa37e72_IMG_0274.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/545f96b9-a441-4423-bba3-1e15aa93564c_IMG_0276.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/58f416fc-46f5-4375-87c5-88bfcced0dad_IMG_0280.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7309b555-70b3-4e64-891d-336def907ea0_IMG_0281.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7537d33a-51df-48e3-8a81-3b06114e83af_IMG_0278-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/84812611-edef-422e-85d9-b023f5aae5e3_IMG_0279.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9a4cdbda-fe8b-4ee9-9602-43f2051bc051_IMG_0277.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d93c6df0-9ec8-4b0e-ad66-807d58e9dccf_IMG_0275.JPEG]]
+
+* [2021-07-22 Thu] Systems / electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/68890584-3381-42d5-b773-624480ad0071_IMG_0283-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/87c3e264-e41a-4886-b714-7e0137431cdc_IMG_0284.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b2bbc6e3-a26e-4b32-82ac-0cf35a5e300f_IMG_0285.JPEG]]
+
+* [2021-07-30 Fri] Systems / electrical design
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2d52b18d-0256-4715-9018-d558d79cc136_IMG_0290-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/89b001bd-f8d1-4347-be2c-002b64f85a7d_IMG_0291-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b21f0aff-9480-4306-bd8b-e83c30a50865_IMG_0293-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c93726b4-6fc9-44db-944d-e4a725f8dace_IMG_0292.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dc68cf92-59f8-4338-b23c-5d77e5ebfe78_IMG_0294.JPEG]]
+
+* [2021-09-12 Sun] Systems / panel
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/74154fed-e261-4fe1-ae37-0211a300b914_IMG_0430.JPEG]]
+
+* [2021-10-27 Wed] Systems / electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a2c0a0f6-bbb8-427f-9e35-3d4c814946a5_IMG_0501.JPEG]]
+
+* [2021-10-29 Fri] Systems / electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/83a6a303-dc58-4cf4-9997-0ee32c409548_IMG_0504.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f821b42f-decb-4a2f-bcff-976ffa2a3087_IMG_0505.JPEG]]
+
+* [2021-10-31 Sun] Systems / electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7019be14-0d3e-4c4f-8fa3-ac6344a35c77_IMG_0506-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8ce65c67-79f0-4c9c-9425-efc98965ac4b_IMG_0508.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e32db3c1-e7fa-41c9-951e-b5eb8b626b2f_IMG_0507.JPEG]]
+
+* [2021-11-05 Fri] Systems / electrical & avionics
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0a0f34a8-ab8b-46da-88b2-d4c5febf6713_IMG_0511.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/33d7f87f-da6f-4e76-8b33-233dfb5b7d85_IMG_0514.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/de8d0557-719a-46f6-b24b-3ccb96d19b0f_IMG_0512.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ebb843d8-c49e-42a9-8696-e0d2f3d0a665_IMG_0513.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f50b33f4-4de3-4049-8b0a-a89ede55d9d8_IMG_0510-1.JPEG]]
+
+* [2021-11-07 Sun] Systems / electrical & avionics
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/47672d7f-122e-4c7c-8f60-c643e8743e0f_IMG_0515.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f6adda21-0ea2-46f6-894c-0859edf0bd60_IMG_0517.JPEG]]
+
+* [2022-01-09 Sun] Systems / avionics
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/17ad61a4-b841-4c3c-9f32-74d97e9c1774_IMG_0952-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2315fd01-2992-4963-bf1e-5c8dbc07e1c2_IMG_0955-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3db696cf-3a1d-4184-901f-b8cc47447f50_IMG_0957-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/44e2d76c-5c70-4905-92a6-890ef7cb29c0_IMG_0954.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a370b2f2-ee78-44e0-a215-d79b4a8e4fcf_IMG_0953-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bef86280-72e2-4178-807a-925146804c55_IMG_0956-1.JPEG]]
+
+* [2022-03-01 Tue] Dogs
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f5dfc046-7c19-4c8e-bbf3-121d7deb4e1d_IMG_1133-1.JPEG]]
+
+* [2022-03-06 Sun] New engine oil plug
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/11e6d3f2-055a-4b48-9f3c-83105ee2ff4e_IMG_1142-1.JPEG]]
+
+* [2022-03-10 Thu] Engine fuel hoses, electrical, instruments + exhaust
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1251bc54-3967-4500-a734-061d7c01f5d5_IMG_1153-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/127cafc3-8255-4233-b84e-05f64682ddb6_IMG_1164-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1571c1ed-7704-4185-a582-2ac98c5eaffa_IMG_1155.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/160f24fc-ccf7-4311-b819-329222bf6d31_IMG_1165-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/233fec29-6a29-4253-83e2-d4b461f85bea_IMG_1160-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/438b29f1-2a5d-4a4e-882c-02cd8ba142e3_IMG_1144.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/4cf66515-ba35-41ee-9c76-cc7f630d15b5_IMG_1151.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/57e47857-10b9-4869-a0e5-95e7d9385523_IMG_1156.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/68522f61-b3a0-4cfc-b111-44051264f179_IMG_1150.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9234ea89-d3ac-4d12-bd9b-a1a588c7f148_IMG_1157.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9f50edc1-06c9-4a01-8538-48c1002675b7_IMG_1163.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a056f84f-3c67-4b3c-b525-5e705ee75b79_IMG_1158-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a0c6fd6e-4137-48dc-82b7-4d53cff1d813_IMG_1145.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a4511044-2ac5-4a27-9703-89b170fe3a88_IMG_1159.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cd73a7c2-1ac0-435d-ac4f-bd33c8f1dcc1_IMG_1166.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ce15a071-8c54-4b82-b3f7-1d0de5eb6630_IMG_1148.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dc198c9c-74a6-4e7b-b3b4-8bbe8b464642_IMG_1147-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dfa23863-8fe5-46e7-ad16-33a8da1dbc20_IMG_1162-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e3f049ae-b74b-42d9-9ca7-59feb1872732_IMG_1146.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e493299b-1011-4a73-8a52-bed175bc92f3_IMG_1152.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e535bb1b-9c83-4001-9ffc-500e8f7acd4d_IMG_1161.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f6f06a5e-879a-422b-b59d-6b3deed00fb4_IMG_1154-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fcc32ccd-fda1-40cf-83e6-4ffcc339a13e_IMG_1149.JPEG]]
+
+* [2022-03-29 Tue] Fuel system test
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/84ac7f19-803d-4813-a2bc-1530c355ed13_IMG_1198.JPEG]]
+
+* [2022-04-02 Sat] Systems / avionics
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1161f6b5-d24e-4e17-9176-4973025fb97a_IMG_1202.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/280716e9-01cd-4387-8592-24f3aa811444_IMG_1201.JPEG]]
+
+* [2022-04-20 Wed] Systems / avionics
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a7fb2569-acad-44b9-a8fd-1f8f01f9006c_IMG_1243.JPEG]]
+
+* [2022-04-27 Wed] Systems / avionics
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7da3599f-eb15-4388-a6fd-34d64f5732aa_IMG_1271.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a6eb777b-6c0e-4bd6-bf81-09a72b56fa3e_IMG_1272.JPEG]]
+
+* [2022-09-28 Wed] Wings mounted! (Corbin's shop)
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c636ada3-1cfd-4bc2-b630-6426b1891005_IMG_1772.JPEG]]
+
+* [2022-10-12 Wed] Move to Kulshan warehouse
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/67a9384f-fc98-41ac-93ea-a38efb7c7dd9_IMG_0055.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c9bc9ead-6299-41d6-b824-8d38ae014319_IMG_0054.JPEG]]
+
+* [2022-10-13 Thu] Controls / cables
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/086c353a-51fa-4595-9d0a-549a5899d849_IMG_0056-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5b6f99ab-9497-4f36-ae25-d3a10f36e8b9_IMG_0057.JPEG]]
+
+* [2022-10-20 Thu] Systems / electrical design
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/04229df4-957b-4509-9689-7a81ab089eea_IMG_0072.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/07b77a02-4449-425d-8bd7-650c2030e4ee_IMG_0073.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1ae98eaa-3348-48ce-a258-3c1e1a795c4f_IMG_0071.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/26e834fe-6929-4b8d-ab20-f037962ac128_IMG_0069.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2720b141-3c53-470b-a178-9c153ec53435_IMG_0064.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2ae0543d-52d7-4f89-813e-95569fd7796d_IMG_0078.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/401e4ef7-e4e9-421f-b351-f5a45f6a9a0a_IMG_0068.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/40ac183a-0380-45c9-9e99-3e9128a0a107_IMG_0065.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/47ea1653-52f2-4470-ba19-7ed2ec3d8079_IMG_0077.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/70d49008-a3ce-404e-aede-4694f790edce_IMG_0081.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/91428345-f936-48c0-ac4d-c2d5a92e278d_IMG_0082.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9cb4d7cd-dc57-44cf-a518-6f88532798e1_IMG_0074.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a0db1140-ace2-46a9-b915-f1377e6de191_IMG_0084.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b4f06428-ef75-4c73-bcf9-e55d1f8176e4_IMG_0083.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d5df8852-abde-4df3-a847-28ddc5243ea3_IMG_0066.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d6504f50-3cbb-41c6-8b16-3c51fd850dde_IMG_0070.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dae5596d-0ba0-4868-b79e-2aed4e7d637b_IMG_0079.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ebab7937-d712-4130-903b-dabcafb57f54_IMG_0076.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f02b261b-4fe1-4c0f-9fcb-e4a0ffb13e77_IMG_0075.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f953ff1c-7bde-4472-82da-de5e55736eb3_IMG_0067.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fb6da09f-ba64-4980-960a-c988ba0e8b75_IMG_0080.JPEG]]
+
+* [2022-10-29 Sat] Airman knowledge test report
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1febeef2-052e-450e-97f8-6cb28c5c94b7_IMG_0101.JPEG]]
+
+* [2022-11-01 Tue] Systems / electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/68179d26-fe25-4820-ad41-4b8a738d2722_IMG_0105.JPEG]]
+
+* [2022-11-02 Wed] Systems / electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3af50b8e-1fcc-4dba-b70a-b2f675f7abfe_IMG_0106.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7131d202-d443-4dfb-9f3a-e2dabd6defff_IMG_0107.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ce7c65f1-bd79-4e8c-930a-60f6ea9e6a95_IMG_0108.JPEG]]
+
+* [2022-11-04 Fri]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a0f56bb3-52fb-4ec7-a5d5-53e7f6b4f381_IMG_0109.JPEG]]
+
+* [2022-11-07 Mon]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/79fc5634-95b6-4afe-b15c-147bfd427e6f_IMG_0111.JPEG]]
+
+* [2022-12-03 Sat] Controls / cables
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/023f2399-63f4-454a-a2f9-dbd7a94ce546_IMG_0173.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/29f4b836-e330-44fb-83b0-eaf14838071f_IMG_0174.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8010092f-e509-4e31-91dd-162fd4e0dd2a_IMG_0171.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8659fefe-16e7-426a-8eb3-f479c44c8874_IMG_0175.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e1844a74-092a-4d38-997f-def315aaf624_IMG_0172.JPEG]]
+
+* [2022-12-08 Thu] Systems / avionics
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0d3846b0-a75c-4150-8b86-86813b518387_IMG_0198.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2291229d-f629-4892-b12a-91a507da3c09_IMG_0192.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/50492f61-5854-4d60-af6e-47dc9bc12568_IMG_0193.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/686f2ee4-c363-437c-ad94-b7697910b823_IMG_0190.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6d6153bf-a51c-4970-81a1-0873bcec0a4d_IMG_0195.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/76690f3d-faf5-4436-8470-a389aa9f9e6a_IMG_0191.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/951a91f2-9262-4bf0-bb04-54116901692c_IMG_0194.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d8efd8d0-195a-4322-9c26-4b289170eb9b_IMG_0197.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e1a318b3-604d-40c4-8785-3be5c01d6219_IMG_0196.JPEG]]
+
+* [2023-01-09 Mon]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/737dcb37-e4a4-40f4-9211-e39354724247_IMG_0333.JPEG]]
+
+* [2023-01-14 Sat]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5707abc2-afc4-4d5a-adae-ed9b83a5d57a_IMG_0343.JPEG]]
+
+* [2023-01-16 Mon] Systems / pitot tube
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2cab2afb-db5c-41fb-bfef-22c6bcf34834_IMG_0345.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d5e734f4-65e7-4860-83f8-9ce99d02b682_IMG_0344.JPEG]]
+
+* [2023-01-17 Tue] Systems / electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3aa01e18-6772-4a80-a2bf-4216288768d4_IMG_0346.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f96a6cc2-169e-4673-953e-cfcedd3c52aa_IMG_0347.JPEG]]
+
+* [2023-01-19 Thu] Systems / fuel system & electrical
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/10d68410-ca3f-4787-9ac0-d26a6fa4f8d0_IMG_0353.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/494ff38b-8e33-4fbd-a33d-041552355071_IMG_0356.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5be24c24-cf18-43e7-9caa-0a178a67488a_IMG_0357-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6939ea3b-fe32-4347-98b8-c0d5d77d11ef_IMG_0358.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9445a11a-d6bb-4fc0-afac-d9fcc97ca9fa_IMG_0349.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/99491ad0-27d8-43c7-9190-c5a411e5b380_IMG_0355-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d8cc7587-2fa3-480f-bbb4-069c29218e37_IMG_0348.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e135fcef-30af-4fdf-b4e0-102ddab9dc83_IMG_0352.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e52e8edb-e779-4a32-b6ce-4058d82d1f4e_IMG_0351.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f4e96e32-c1ff-4bf4-9f7e-343aad171bac_IMG_0354.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f6017f15-c8c3-4ec5-92af-2b42aed4a919_IMG_0350.JPEG]]
+
+* [2023-03-07 Tue] Systems / Throttle
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/df4848f7-d158-4639-8075-4ac1457fc247_IMG_0459.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fe6481ad-c847-4846-8a0f-89f63c25b1f6_IMG_0458.JPEG]]
+
+* [2023-03-08 Wed] Systems / fuel system & pitot lines
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/702eaf11-10e3-4195-9cf6-d6603523d08c_IMG_0462.JPEG]]
+
+* [2023-03-14 Tue] Wiki taking a break
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f914c0e1-5d66-4ea1-8d38-56fce5b407d6_IMG_0474.JPEG]]
+
+* [2023-03-16 Thu] Systems / electrical & pitot lines
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/18fee177-feb6-4a0f-86af-9b4a32e82f5e_IMG_0485-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/212654de-621d-48bd-ae94-b99d754d80ca_IMG_0489.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2167bd61-87d2-435f-a033-0b02e74403cb_IMG_0490.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2b79a3ff-3e45-44d5-8c5a-76ecbd9ca81f_IMG_0487.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7f03608c-9146-4e92-ba3c-2cdd0e49cd1f_IMG_0492.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/935372de-3b8e-4eeb-9f60-e1b0d415ab58_IMG_0493.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ac3113e7-c82e-47c0-8491-879c1da2b886_IMG_0486.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c11d431e-0358-4840-9be2-bdc18910f2ba_IMG_0488.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d29f0553-52b8-48f5-90d1-01edf984a468_IMG_0483-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ec62069e-1bda-4a4f-939e-e40bfc170727_IMG_0484.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ef2cb90c-850f-4ddf-8717-384d9b212458_IMG_0491.JPEG]]
+
+* [2023-03-17 Fri] Wings / wing tips & lights
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/08dbe785-4e46-41cb-bab4-a13b11a20617_IMG_0510.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5bffa4e3-828d-4290-a853-aee18883f853_IMG_0506.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6552b9ff-3571-48a2-816b-5ed5febbcf57_IMG_0509.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f2f60758-8c85-487c-81b0-84d23a687435_IMG_0507-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fd7849ab-53bd-4059-a49e-2ae3d58895aa_IMG_0508-1.JPEG]]
+
+* [2023-03-20 Mon] Systems / design & build annunciator system
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0735774c-caf2-4dac-8d76-ecc0dba5f173_IMG_0523.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0972ba07-d32a-47e8-bc74-84b2e7067a2c_IMG_0521.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3e9efcc6-ef1d-410e-9c96-885fd37f748b_IMG_0524.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/76ea366e-6a8b-44ab-aa1b-a5c2c283fc54_IMG_0520.JPEG]]
+
+* [2023-03-24 Fri] Systems / ELT
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/34b776a8-c48a-4abc-96e8-68a6c7d61e74_IMG_0539.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6f339f5f-bdab-4580-a77c-e7373338f70c_IMG_0540.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bd9679d4-2893-401c-a1e4-1ac053efed2d_IMG_0535.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c63ccf18-c4bd-4ddd-a500-e8a6669e6168_IMG_0536.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dd5c13d2-7033-4b29-b6df-511516b951c2_IMG_0537.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f12405bb-aff0-4e2b-83e7-321160bba36d_IMG_0538.JPEG]]
+
+* [2023-03-27 Mon] Systems / ELT
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d69645a0-3516-4a53-a0c9-b2543aecb686_IMG_0542.JPEG]]
+
+* [2023-03-28 Tue] Systems / ELT
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2e97fc62-5740-4648-b044-7c02f48ff041_IMG_0547.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5d842455-c53b-4bcf-805a-c6e5bff53ea9_IMG_0550.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6b9b13bf-266d-4159-b07c-4c7d8609bf95_IMG_0548.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/702701ff-631d-4e22-aa51-6c1afd442a94_IMG_0545.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7d4e492a-c45e-4f43-966a-2440bab05066_IMG_0551.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bbf6631e-6fb0-49ce-96d3-28814b4797da_IMG_0549.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c9afbfd8-130c-4dbf-bbe9-f0c7678399c4_IMG_0546.JPEG]]
+
+* [2023-03-29 Wed] Systems / ELT
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/480cc8a2-2ec9-4801-9d51-0c439c9941e4_IMG_0556.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/504d9842-e591-4b6c-afe1-853e10b97847_IMG_0555.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bbdb3195-27a3-4369-93f4-d52247ee541e_IMG_0558.JPEG]]
+
+* [2023-03-31 Fri] Systems / ELT
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/026513bd-363e-4e8c-b9a7-d79445ed6063_IMG_0559.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/04d0ca0c-5574-4264-b084-eb4b0f93adc1_IMG_0562.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/92740acb-5f2a-4685-bcdd-34505bef2aa5_IMG_0560.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ec116efd-46ad-4799-97a9-9fadb0bf9798_IMG_0561.JPEG]]
+
+* [2023-04-05 Wed] Systems / fuel level senders
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/00c21893-ddc7-4187-b8b0-42da073955b2_IMG_0571.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0834771e-9130-4883-8b8c-b8869d5f3319_IMG_0591.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/143d49fa-2af5-47ac-98a0-a3625a852454_IMG_0575.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/160af38c-44a6-4747-aa75-638f515c9235_IMG_0583.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1d3931e0-2ba3-4a94-bace-95275091c8d7_IMG_0577.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2d38ce2b-584a-46cc-b615-12aea599ad99_IMG_0579.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5c9bfc69-feee-4f03-9e34-e6d2009351a9_IMG_0572.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/652262ec-9782-4c0e-9a96-54d15810761b_IMG_0585.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6918508a-f99f-49ab-b2c1-db1ae44cbbd5_IMG_0586.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6ab33593-d7ce-4335-a528-87ffbf67a3c4_IMG_0573.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6aed7182-22f3-492d-8b0e-dc7c8c699f05_IMG_0581.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6f2db3e8-9fb3-4984-9e3b-8ba6e17832b7_IMG_0580.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/79409b35-3488-4cce-a4e4-e1e0b156e573_IMG_0576.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/82d2a6b7-0128-4834-bea2-c0eadf13020d_IMG_0590.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/87c8d91d-b509-4c2e-8db2-a19aac68076a_IMG_0587.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b2b92f8e-a869-448b-ad40-c898c636ef24_IMG_0589.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cf4b6a2f-e5f9-4b4f-b13a-8c18c0a4a41a_IMG_0584.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e2a2d15b-d73d-4033-9688-8b68c8939c20_IMG_0574.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e3b3dc90-d6ff-4f7f-979f-04e96e0eddb0_IMG_0588.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/eebe5e86-25b7-4628-8d93-4f840a5cbaff_IMG_0582.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f20aa73c-222b-4480-b9d4-fa8509327345_IMG_0578.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/83e8197b-d48a-4aa5-a30a-cab7f33972de_IMG_0592.PNG]]
+
+* [2023-04-06 Thu] Systems / fuel tanks
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fe16556c-8a09-46d8-b001-b3bf12117fa2_IMG_0595.JPEG]]
+
+* [2023-04-16 Sun] Systems / fuel tanks
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e14c719d-013b-4112-8809-791532a302e2_IMG_0646.JPEG]]
+
+* [2023-04-23 Sun] Status summary
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0575330d-c13f-481d-826d-9b91b9eb8789_IMG_0648.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1dd2bae9-50d9-4359-b673-7f09c032fd34_IMG_0651.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/28815f1b-19c7-44b6-ac52-cb7b320a20d3_IMG_0649.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/31d213e8-0851-4155-a8be-cde5510f02b3_IMG_0656.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/56bbe907-b099-4fdd-8dfd-ddddf0a849ae_IMG_0661.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/77ae7d3a-62ef-4186-a39a-337b9315acef_IMG_0654.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/781a1780-ebbc-42f1-b372-cf376ad5c7c1_IMG_0660.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7937065b-7c24-4f61-963e-0676d32d2fe4_IMG_0659.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7ae10b1d-8120-4d34-865e-835015bcfe68_IMG_0662.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7b552b7e-cd41-4338-8568-dedfdd0f18d6_IMG_0657.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/882bca62-0a24-45d6-afd8-d736361f2efe_IMG_0658.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/91aa8a97-a22b-4fa3-9344-41d6763c089c_IMG_0653.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9e18c16b-dc9b-4332-85f2-ae8963dae7a9_IMG_0650.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e6b2a316-05f1-4869-a0e3-e11f2802272a_IMG_0655.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f0d88e36-6d7d-43c0-98d0-d7a81d5f394f_IMG_0663.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/facbaf97-470c-4008-9efc-a2e63b3115b7_IMG_0652.JPEG]]
+
+* [2023-06-02 Fri] Trim tab motor wiring & elevator cable shackle
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/16f19314-ea39-4810-94dd-c52742759c14_IMG_0762.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/237e33ae-8d9a-4b90-8e29-a54abaf54257_IMG_0764-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2c5b2d2e-3cba-48ec-ab44-143fcb127756_IMG_0763-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6d07abe4-1eb1-4b3d-a9b6-545900c856b3_IMG_0765-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8eee88db-a4ff-4add-898b-b4ed2cebda7d_IMG_0766.JPEG]]
+
+* [2023-06-05 Mon] Rudder stops
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/09f93d68-7968-4473-9939-054e1e67839f_IMG_0780.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dc0874ee-95a0-42e7-b831-37373fea88ca_IMG_0779-1.JPEG]]
+
+* [2023-06-08 Thu]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/13e57a96-abf9-41f8-b6b2-4b04aa06f983_IMG_0783-1.JPEG]]
+
+* [2023-06-09 Fri] Install longeron gussets
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1e32545b-44d3-4a9f-bb8d-4d17271cc27f_IMG_0786.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/77975354-bfcd-4abd-88df-f9a470312c4c_IMG_0788.PNG]]
+
+* [2023-06-12 Mon]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1ba9a9cb-6205-4243-95cf-faeb37adaef6_IMG_0791.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/326604a7-8072-48f5-8112-cb5490de2095_IMG_0790.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a340f335-27a0-418a-a9a1-1face413ff2c_IMG_0792-1.JPEG]]
+
+* [2023-06-16 Fri]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2965579f-f1a2-4e0a-98f2-120717a3627a_IMG_0820.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2fddd352-7eb7-4e60-b873-b38b4a543771_IMG_0819.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5fc67314-6558-4818-9cc8-ce317630f5b5_IMG_0821.JPEG]]
+
+* [2023-06-18 Sun] Tidy wiring & hoses
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e1678713-4f69-442c-b478-fa4e423b334e_IMG_0827.JPEG]]
+
+* [2023-06-22 Thu] Install baggage area
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bac68adc-6f1a-4e34-b60c-f40cf6e3c876_IMG_0830.JPEG]]
+
+* [2023-06-29 Thu] Install baggage area
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/61450589-447c-4268-92cc-7e1674d5eb47_IMG_0848.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/80c5b035-339e-4fbe-ad2d-577dbc1fa5b2_IMG_0846.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ad4b9fd7-0851-4631-9b92-075444aa57c7_IMG_0847.JPEG]]
+
+* [2023-07-02 Sun] Tidy wiring & hoses
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1fb65b3b-0414-41c3-96b3-b1e35d9dd5fa_IMG_0861.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5ad620fd-b628-4faf-bd11-17b1fc329422_IMG_0862.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5b3addcd-2ba5-4ad6-b350-ccc7b7820c41_IMG_0858.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/608ac255-db0e-4324-b008-e9cf18ed7ab3_IMG_0860.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f87ad442-fed1-45a4-9898-c98dc67084bf_IMG_0859.JPEG]]
+
+* [2023-07-06 Thu] Rework rudder cable openings
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5ed11f0a-3979-464c-83d3-084ae2f8f997_IMG_0875.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6189ea15-81aa-42b9-8dff-0b8a99ec93fb_IMG_0874.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/66188d7d-edc1-41f0-b307-bfb8913b10ff_IMG_0882.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/838da537-8a72-4ee6-84d8-b467bde74958_IMG_0876.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bd2b0ed7-551c-4d5d-9dc5-17359db17b46_IMG_0873.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c7dd547b-cfe1-490e-9a59-1860b800c79f_IMG_0880.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e6dbcb58-6887-4d2e-bd77-934165f5203b_IMG_0881.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/efb29eb3-aacf-4395-b5d1-59a07ef850a4_IMG_0877.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f3a6daa7-dd79-4f6c-818a-7a8be8ccb49d_IMG_0878.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f6991b7b-7f79-498b-ada7-49ef47f83cb0_IMG_0879.JPEG]]
+
+* [2023-07-07 Fri] Various finishing
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2ad136bd-215e-4e1f-b1ba-351578abc03a_IMG_0887.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3b3919e7-f190-423e-8324-d45b98f60845_IMG_0891.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5031cbcd-c3ca-4b67-ab9b-22c8b3ef8e8a_IMG_0892.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5b4792f9-d200-4503-8c00-8fdc6512d53f_IMG_0886.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/72411416-7003-43cc-bfb9-ee20c4f78163_IMG_0889.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/948e879b-888f-49ab-b5e6-a934f647ec39_IMG_0893.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9cb0c462-323b-4357-964d-f2af48948776_IMG_0884.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9e6efd88-82ae-484f-bea6-81096b7f3047_IMG_0890.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b4acc603-836e-44da-82bb-da8f4244ce33_IMG_0885.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ce9aa967-da30-4789-9472-a61cfcef5018_IMG_0888.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e40eaecc-f052-4c40-94ff-35cb241c4191_IMG_0883.JPEG]]
+
+* [2023-07-08 Sat] Label control panel
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/4fa4b83d-9442-4e0c-8d5a-0119a5f86302_IMG_0896.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/591cb03f-7b84-4f36-a154-9c41787247ab_IMG_0895.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/68479daf-d00d-430e-9c28-f9a48937979e_IMG_0894.JPEG]]
+
+* [2023-07-09 Sun] Install fire extinguisher; flaperon tips
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/03f6ade2-6688-4d60-a0aa-4a2d044e2d22_IMG_0898.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0784961b-80f1-46cf-87f1-e28a7655a9fa_IMG_0900.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5d5e6bdc-9fe6-4fae-99cb-079fd83e4c1b_IMG_0899.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6c2e4f6d-748d-4fc3-b3ee-b52030fe671e_IMG_0897.JPEG]]
+
+* [2023-07-11 Tue] Install prop, side windows
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/21452b94-6bab-4d78-8123-739064208b24_IMG_0908.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/286b0f0c-3100-468b-a67c-2666b5195ca4_IMG_0906.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/647586dc-2a16-4383-a9df-0a15f304ef81_IMG_0905.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/88a02807-8413-4147-80f5-1c7b7f8d2742_IMG_0904.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b7732f1b-e97a-4d2e-b47d-3bfb6e959b2b_IMG_0907.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d3847add-ffbf-4867-ac11-1fc598a60ecf_IMG_0902.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dd8322b6-7503-426e-b541-bf780ca25d49_IMG_0903.JPEG]]
+
+* [2023-07-12 Wed] Make wing supports
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0e095c45-ed30-42c5-9d47-ea427601e75c_IMG_0912.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/15a24852-24d2-4e4b-a54f-2d92d888c491_IMG_0914.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/60525e80-e91e-4bbc-8f26-0fdee9de50da_IMG_0913.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8edae67b-40be-4a50-bbe7-9726d966d7e6_IMG_0916.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cfbb2daa-e79e-489b-a37c-42ad2faafe70_IMG_0915.JPEG]]
+
+* [2023-07-13 Thu] Make wing supports
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/43896824-f8e8-40fc-9ff8-5a9654cb2ac9_IMG_0923.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5aaee171-d066-4303-a42a-c08dae7b7033_IMG_0922.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7f75d641-b21c-4fa4-9816-803e7d35b665_IMG_0921.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c268629e-a3de-4583-b1f8-625c2727f5fb_IMG_0919.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/eedfb1cb-e676-496b-84c4-bad5304324ba_IMG_0920.JPEG]]
+
+* [2023-07-18 Tue] Install wings, connect fuel system for engine test
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2699f8d3-ab6a-4d7b-9400-0620284b9ba7_IMG_0934.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3e56d814-c6b0-4311-b257-8d9486c0a089_IMG_0935.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8b122710-6770-4da2-b6d9-faae5097f3cb_IMG_0937.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/91e08c6f-99d9-4368-8e4b-07942c5e4a26_IMG_0936.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b14b2367-103f-4519-aa89-71279ac0585f_IMG_0938.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e6236bb3-d179-4490-825f-6f5ed7836bb1_IMG_0940.JPEG]]
+
+* [2023-07-19 Wed] Test engine; rethink throttle installation
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0805c6b0-6019-4c5b-86da-f7c623898961_IMG_0949.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0ac718a9-dbee-4fb8-985f-a2df493cf4e6_IMG_0959.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0d11160a-7174-410f-93b9-c64d7dec0793_IMG_0951.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/20efd843-f539-4e53-98de-e38b8d9d590b_IMG_0970-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2f18f14d-9336-4d93-a931-8d2f8e1aaf05_IMG_0966-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2f1c34ef-d193-40d9-9853-aa76e45a62cf_IMG_0964-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/30387f88-951b-41b9-84d3-8e336a77917b_IMG_0957.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/34f69cb8-15cd-4df8-9b47-75f552c031a4_IMG_0952.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3ab4af61-e998-4514-b3a8-923bc4438f9b_IMG_0942.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/414f255d-3982-43ef-b241-38e45c72a9c2_IMG_0968.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/4646016d-5545-492f-a837-b93d4f5fd739_IMG_0950.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/59304977-8962-4ef4-aee9-dd2c09776a62_IMG_0944.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5f5451f5-0220-43a0-b283-5ab11d073440_IMG_0962-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/62560ede-4c4d-4890-bc36-4a8e0585480c_IMG_0946.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6e7b324a-3b5f-4345-a471-947622d97828_IMG_0961.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/792f4be7-3b11-4ef7-b0b6-f6e564940b52_IMG_0947.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/859353ec-2df4-44b9-bac9-25a2777da034_IMG_0954-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/91de2ebd-4ad2-4bac-82f6-47f30265b210_IMG_0967-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a0f0d0ff-c003-45fa-9ef3-377d7df5a4e6_IMG_0969-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a9720e69-68ff-4780-985f-6c44eea285e6_IMG_0965.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/aba64ed7-1255-4317-85e8-09a4b64371e2_IMG_0963.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b013f7f6-25d7-4de3-b959-588d09b74cf0_IMG_0956.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c2e41061-8193-47dc-9fe4-6776e53606fc_IMG_0948.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cc468edf-158f-4f25-8e90-014863cc6086_IMG_0955.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cf6fea9f-8e83-4939-b535-401a6199c878_IMG_0960.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cf92c4b0-3bb8-4935-b88a-1c4f2c2aed7a_IMG_0943.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e52611e5-7319-4412-a5c8-bff48c829b93_IMG_0953.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e81bca0a-936c-4d13-8128-a159e3a14b72_IMG_0958.JPEG]]
+
+* [2023-07-20 Thu] Install longer throttle cable & improved support
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1afda599-9c6a-498f-b421-1b7bbd568fbe_IMG_0978-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/264ebd49-840b-4d9f-8c59-04c63ba2bdb2_IMG_0975-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/4c425d5c-18dd-4283-90f0-82f6d7bcda4f_IMG_0980-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/57f30556-9cd7-49f6-b513-4a9a0053305b_IMG_0982-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6313b267-e7f4-47a1-ba7e-b5f0a995ef58_IMG_0985-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/646a7836-ed9d-4c0b-a754-28bf392c64e5_IMG_0981-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/71a26309-778c-4e7b-9084-092448116478_IMG_0979.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/97664a63-8f87-4a72-8219-a4e0cb9fb598_IMG_0976-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bb311ae1-10a7-46ee-80f8-4ac537f54aa5_IMG_0974.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f089b97d-4a3f-4da3-beda-1a29dfe2cb8a_IMG_0977.JPEG]]
+
+* [2023-07-21 Fri] Install deutsch quick-disconnects
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2afbaf58-4f2d-473e-b79a-6d1dd300620c_IMG_0988-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/4397c77e-eaac-46d8-9e4b-8bce0fdc521f_IMG_0986-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b23fe887-da76-48a6-97fb-62254f6e96b9_IMG_0987-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a70f414d-06fa-4570-b2fb-2b70a1c9e81b_IMG_0989.PNG]]
+
+* [2023-07-31 Mon] Attempt to install prop extension
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/057f3128-3e8f-484f-a3b3-e79456dcd034_IMG_1037.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/08dea264-5896-4221-a0ab-bc7b2cd8199e_IMG_1036.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fce42484-ed73-4de5-9a3f-50bff4e1c57a_IMG_1035.JPEG]]
+
+* [2023-08-01 Tue] Remove botched prop extension
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3f028fae-f37a-4c38-9a37-f5402698b59e_IMG_1038.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/80e17fab-efd1-483d-b856-fadff4b0300d_IMG_1039.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b32b91f7-7bc0-44df-b083-0e20ab4099d2_IMG_1040.JPEG]]
+
+* [2023-08-03 Thu] Remove gearbox for return to Aeromomentum
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/4be09ce4-8697-4cdc-b15d-6bd1ed246ff9_IMG_1058.JPEG]]
+
+* [2023-08-09 Wed] Glare shield cover
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/88cba6be-adff-465f-ba54-014fbb58950d_IMG_1072.JPEG]]
+
+* [2023-08-11 Fri] Various finishing
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1eaa78bb-d1b5-4924-b2ad-38f284db3258_IMG_1080.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/42aec09b-bdc9-4cc3-b6a4-6f98b71775eb_IMG_1077.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/53352fe4-bda1-4d48-90ae-def5c7e65ec6_IMG_1082.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5c67b2b7-f902-4713-8d0b-97c8256fbee8_IMG_1081.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8ed9860e-c2bf-414c-896b-21cf35227c10_IMG_1083.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/96ddd5f9-9b45-4508-b116-e141dc28b387_IMG_1084.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ab98adf8-5610-481c-bbeb-99f7cc7b1642_IMG_1078.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bb32db1d-914a-4a4e-846b-fb94ddb281ec_IMG_1079.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bb41c150-bdf5-4d57-9d08-abf7babfde37_IMG_1074.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d5ae974d-3a36-41b4-9283-1bd07c8dfc27_IMG_1076.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ef09e82d-4744-405d-9bb1-831f63581b9c_IMG_1075.JPEG]]
+
+* [2023-08-19 Sat] Chuckanut hangar for final wing install
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bd2cfbd7-26c8-4234-ba09-0ba48db679f7_IMG_1102.JPEG]]
+
+* [2023-08-23 Wed] Moved to command hangar, wings on for good
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5bc1bc12-4762-4bc0-8f6e-d16d6e4a8380_IMG_1109.JPEG]]
+
+* [2023-09-07 Thu] Install new throttle cable
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/01d963dc-ff14-4d23-a636-e61ed166b8f5_IMG_1131.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3eb454a3-ce24-4065-aff6-67cd922931d8_IMG_1133.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8b43af21-8d9c-4e04-bb1b-b25f15ada66c_IMG_1132.JPEG]]
+
+* [2023-09-19 Tue] Received registration certificate
+* [2023-09-26 Tue] Windshield install
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/162bca9b-09ef-4f0a-a877-95447a769781_IMG_1158.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c87954b4-7b21-4cb5-9a8b-cf9247be2cc3_IMG_1159-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ea4c61c5-3f02-42fa-b5ba-70ee3f7f1d17_IMG_1157-1.JPEG]]
+
+* [2023-09-29 Fri] Flaperon rigging
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0fd82577-acc5-495f-8f2b-2a5515bff25c_IMG_1168.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/106afdfe-921a-4623-a693-2f20f33a98f6_IMG_1173-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3144b039-d506-48b4-a4ba-2832df2762e3_IMG_1172-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/34bd768e-0734-4b95-a1cd-a5e7ca31ccbb_IMG_1170.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/350bad15-428b-4e7f-a377-0ac4c4261d92_IMG_1166-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3aa7407d-f07a-4b40-a3b9-b4168419dc93_IMG_1167-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/43a9b000-681f-43d3-87ee-9f44225df9e1_IMG_1165.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/48b525d8-a396-4dcf-a289-3c7af6d91e9c_IMG_1169-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/9d696417-3a29-4a9e-a12b-bd12201194be_IMG_1171.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d2485500-d334-41d6-9805-fc96fd84eba0_IMG_1176-1.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e3644dd8-eb66-4805-bc13-bbf5799b2e37_IMG_1174-1.JPEG]]
+
+* [2023-09-30 Sat] Prop
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e1b9a8e4-8ec5-40dd-a103-3b61ac437cc7_IMG_1179-1.JPEG]]
+
+* [2023-09-30 Sat] Safety-wire turnbuckles
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a28699b8-09ef-4fa6-b9dc-763547c54303_IMG_1185.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/36baa07e-c9e4-4e67-bfd7-1818599f6d30_IMG_1181.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/09de5b79-6332-49a7-aa20-15bea242544c_IMG_1186.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d260e91a-fb39-474f-b861-628600953942_IMG_1184.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/17473b8d-3e37-48c6-80af-28e89443c80b_IMG_1182.JPEG]]
+
+* [2023-10-01 Sun] Replace fuel pumps
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5675f440-ae79-41eb-b384-7f38f8f90cbf_IMG_1188.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/89841ba9-a8cc-4511-a4ad-7a7c5b6341bf_IMG_1187.JPEG]]
+
+* [2023-10-02 Mon] Seal NPT fuel fittings
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3e65d862-30d8-4705-acaf-52e0a2745fe1_IMG_1189.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/03768a2b-1e8a-42f5-950b-883e131ec026_IMG_1190.JPEG]]
+
+* [2023-10-03 Tue] Pitot-static
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3ce7049d-97fd-403b-9140-b679df3d3b36_IMG_1193.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/18103710-cf1b-4bc7-876d-ba78290c4b0e_IMG_1195.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/91a4524e-8d05-40bf-b80c-f25c9bf79160_IMG_1196.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0e4e7dea-93b7-471b-b6bd-5edcd152980e_IMG_1194.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/025aab22-6478-4719-81f9-4ad374fdc60e_IMG_1201.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a88eea2e-9ce7-4c5e-8e14-396b34739a37_IMG_1200.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/83f264cc-efe6-4003-9a51-7a0327d4ad21_IMG_1199.JPEG]]
+
+* [2023-10-04 Wed]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a5ee5abe-6f68-48e4-ac61-7535cfb61e2e_IMG_1202.PNG]]
+
+* [2023-10-12 Thu]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0d8f9c43-3e16-4571-b3bf-9123da8a7409_IMG_1272.PNG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fd2bd012-32c9-4f9c-9946-23a50479f4f7_IMG_1273.PNG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ef0c37cc-0748-4c1b-9db3-acfe4a018b7e_IMG_1271.PNG]]
+
+* [2023-10-13 Fri] Secure engine fuel hoses
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/40582c61-02a8-4dd3-b007-e3ed8c1d331f_IMG_1285.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2374caa6-dffe-42b7-b926-8c97a1c3fd46_IMG_1282.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2a3f6c80-1ab1-4798-aee6-00e1baa249fc_IMG_1284.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/63f9df5f-317d-4cde-aff6-ac945f9ba870_IMG_1283.JPEG]]
+
+* [2023-10-19 Thu] Make battery access hatch
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/98043464-f0bf-4f1d-861f-a1cb4062318a_IMG_1291.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/89bfa9f7-565e-4850-9d96-bd7822958f68_IMG_1290.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1f4989f7-035e-4283-9dcd-659b1d886075_IMG_1289.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ca8c3d66-632a-4376-8c65-789c66d2a1b7_IMG_1288.JPEG]]
+
+* [2023-10-24 Tue] Next project
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c1475d62-d583-44df-9c6d-a72a33c7763a_IMG_1319.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/413ad628-e8b7-44da-9da2-7d1ea49d33fd_IMG_1318.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/eec7f68a-911e-4a08-9c7a-3e3f0f5cd746_IMG_1321.JPEG]]
+
+* [2023-10-26 Thu]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/038c61e4-3fb1-4d61-8a85-3c63418df864_IMG_1331.JPEG]]
+
+* [2023-11-03 Fri] Spinner
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c4276f31-99f8-4c53-b18c-b0f5f195ac65_IMG_1404.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/92f3fbff-7a98-443e-b9cf-e28ed0632c9b_IMG_1402.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2bc4fe98-b144-48b6-baff-86ecdbcd3b3b_IMG_1401.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1e4a8e24-7c02-4042-bee0-2752751e15af_IMG_1405.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7f6edaa0-cec5-4c1a-9a08-581326b4d7ad_IMG_1403.JPEG]]
+
+* [2023-11-04 Sat] Windscreen & top window install
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/df6ba4ca-ad58-44fc-ad41-46d181b8ac21_IMG_1415.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dd03f284-a9cc-4bd0-9c7b-689f2eab2add_IMG_1411.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ff11b192-7f36-4c32-923a-35656a17a189_IMG_1417.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1a98174e-88a4-4966-9d5f-b391fb3fe638_IMG_1416.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/28785e9e-a175-44bc-a575-e7816f61a8fb_IMG_1414.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/7f3c38a5-39a8-4840-971a-dc0671267a83_IMG_1413.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b606ccf2-8198-42ce-a487-e5b569c5f9da_IMG_1409.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d6a4aaa8-f65b-458c-bfc4-590aa5a277ae_IMG_1412.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cf663eef-a1d7-414e-a1d5-4ad3b5dc8ab4_IMG_1418.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5d8d93ee-9fc1-425b-b8f8-73be385b65ad_IMG_1410.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dbf6e01c-0142-48ca-8964-19a4c896312e_IMG_1408.JPEG]]
+
+* [2023-11-05 Sun] Windscreen install
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c81baba7-bba4-42d2-80a5-d4258e4a518f_IMG_1419.JPEG]]
+
+* [2023-11-06 Mon] Side windows & windshield install
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/802b0654-3dae-4377-8a3a-2b91532bcdf4_IMG_1422.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6321df01-e023-494b-b9db-6fa207b6e274_IMG_1421.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dd1c3d77-45bd-4527-8e76-1bdf31c40f29_IMG_1420.JPEG]]
+
+* [2023-11-09 Thu] Windshield install
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/58528af4-47d2-491e-80b7-9b3c8cf3b5a9_IMG_1431.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f71caf57-e76d-4cce-b2ee-db232e003f9a_IMG_1430.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cfdad653-519a-467d-abfc-e72ff4d48698_IMG_1428.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c48e4382-f5ab-46e7-82cb-97fdca3ebb73_IMG_1427.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/bbc99427-ee35-4c8b-a376-98d9842c98aa_IMG_1426.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5fa66c1e-4768-4022-97d5-ed6acfb6e52f_IMG_1425.JPEG]]
+
+* [2023-11-11 Sat] Cowling
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/331ed6b6-2749-4458-a0a7-e3e1cb9e51fd_IMG_1442.PNG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/05bf0fc2-df96-41c6-8977-787b6d3b9c9a_IMG_1440.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/cb263d6b-04aa-4179-a2a7-fac6af0a38f0_IMG_1439.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fbc449f2-8f8f-4ab2-9b7d-00e892e35804_IMG_1438.JPEG]]
+
+* [2023-11-12 Sun] Cowling
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/397f0d0b-cdaf-4844-b56f-e5b1db8fca5f_IMG_1448.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/0b4367b8-8803-47d3-8f4c-6331dc3c35d0_IMG_1447.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b81a3ee9-fa29-46d1-a064-c983b02f8f6b_IMG_1450.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3ba1eb66-fe9a-43af-9ce9-6f6d0ed8e0a4_IMG_1449.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e36bb12c-b1cb-4ba4-bdf8-0663135a3d8a_IMG_1451.JPEG]]
+
+* [2023-11-17 Fri] Cowling
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/49f5f618-44ca-4f80-9609-1781c46fd870_IMG_1459.JPEG]]
+
+* [2023-11-20 Mon] Cowling
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/dc206842-aa34-4be6-a865-c189c0978099_IMG_1463.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/ea414441-287e-40c2-af59-f5f676b17641_IMG_1467.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/de761231-f528-4a73-9058-566a44a3aced_IMG_1466.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/95c62673-0b42-4429-89d4-c0a60ec26251_IMG_1465.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5381d618-abeb-4af2-b222-6a123b7f6442_IMG_1464.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e65e75b1-85d2-4b5b-8933-156248dc6aba_IMG_1462.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b2ea049d-6762-4d3d-866f-d100103d6ab0_IMG_1461.JPEG]]
+
+* [2023-11-21 Tue] Various finishing
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1db263f6-ad24-4268-a8e1-8baf6a70dcdc_IMG_1471.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8930853e-2b23-420f-a123-60db84ad3293_IMG_1469.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a3c928f6-40a7-49ff-b623-0177ef44470b_IMG_1472.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/478ffe8d-571c-42ce-b69e-abd9087f8954_IMG_1470.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a1bc6ac6-a288-4455-8c72-9bb76565528a_IMG_1468.JPEG]]
+
+* [2023-11-22 Wed]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/94435975-6e3e-480e-a53e-02a0b1f998f1_IMG_1473.JPEG]]
+
+* [2023-12-06 Wed] Cowling, close inspection hatches
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/39fb083f-ba90-4b94-ad41-7b3d1e68e066_IMG_1500.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/57d28348-8cdf-4ce7-9984-a2beed5dcada_IMG_1496.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3d89fb9c-625d-4765-97cf-1ab94fc8e573_IMG_1499.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/45e97aa3-b5b8-4d82-9fc8-ad61842cadbf_IMG_1498.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/40131453-e35d-4314-9c3f-b66f59c6ed1f_IMG_1497.JPEG]]
+
+* [2023-12-07 Thu] Spinner & cowling
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a58c887d-e328-4ada-a42b-25c7ce3973c6_IMG_1515.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6fd5789e-4fcd-4c09-8c74-73c43292ec7d_IMG_1514.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/d13a88c7-1f3f-4ad8-916a-c536eec30140_IMG_1513.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c26f2f4b-fcfc-44ca-9019-dcc0e0145c6f_IMG_1512.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/a3a0dfdd-fade-4618-891f-d7ac028acc0d_IMG_1511.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/fc468146-7216-4d70-ac45-e088fa31ee5d_IMG_1502.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/5ac6a111-7a0b-4f0c-99ea-55bc163ea795_IMG_1509.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/23dcf017-97d9-44ea-82ce-867267b182d2_IMG_1507.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c43c3841-9cd1-4c9e-8308-5007871d94f8_IMG_1506.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e5244574-dae9-49aa-9b69-3c1f4fe923fd_IMG_1505.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/24fbd960-9960-40a4-b8b6-1f672e1f7ffc_IMG_1504.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/05ae90ec-089a-4d71-99f9-972c5a40055f_IMG_1503.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/14a57833-13a0-4082-96a5-c350ede503ec_IMG_1508.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8a897d32-7334-427d-b9c2-9975198b220d_IMG_1510.JPEG]]
+
+* [2023-12-08 Fri] Cowling
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c1759d43-fd38-42c8-b2b8-7a2b14748787_IMG_1517.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/680898bb-4024-45ae-89b3-1b9df8b9d568_IMG_1516.JPEG]]
+
+* [2023-12-09 Sat] Cowling
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/eb4635cf-e026-4604-94cd-a756e0a38c4b_IMG_1535.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/47bf5db6-03c1-4e11-b8fc-668dd9eefdb8_IMG_1534.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e21a839c-6d79-4c8c-8449-b297cf19300a_IMG_1531.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/40822102-5315-4707-9bbc-5dafa7e3c888_IMG_1530.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/52978c60-3bb4-4782-a85a-75e6d263f763_IMG_1529.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/1d902c03-c10e-4b2f-8485-30ac9d514557_IMG_1528.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/3dc44345-b372-4a31-8f78-f355bf31d9a1_IMG_1526.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/b1120a87-3387-4b0e-8122-3a37ab5153b4_IMG_1525.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/8f0d9298-72d4-4f72-be7c-3e62c9884e3f_IMG_1523.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/12f12542-87e4-4d89-9e4a-c6048b0e6958_IMG_1522.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/e58d3f03-5fe5-4b5c-8fc0-64745a29fd3d_IMG_1521.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/6437f29c-2281-4ab0-b594-37b8c1ee552c_IMG_1533.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/2ec226e6-d0dc-4e87-976e-6b5c377c8731_IMG_1532.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/29261b0d-a1bd-40f4-8bdc-da60067e2c62_IMG_1527.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/c0154711-7e34-49c8-aa16-6d02ebb2c07a_IMG_1524.JPEG]]
+#+CAPTION: 
+#+ATTR_HTML: :width 400px
+[[./img/f329cda6-6d7a-48a5-81ee-79ced461d968_IMG_1520.JPEG]]
+

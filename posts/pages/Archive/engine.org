@@ -1,0 +1,39 @@
+* Engine Options
+** Aeromomentum Aircraft Engines
+** CKT Aero Engines
+   - [[http://www.cktaeroengines.com/ckt-240td-engine/?fbclid=IwAR1dOkyF9i2iBhIfXPBT71BLuyIj9C5mENGea_ytw-6lyZv9iGo9h_4X5d0][Company web site]]
+** Continental
+** D-Motor
+   - https://www.d-motor.eu
+   - Flat-head direct drive engine
+   - Sold by Fisher Flying Products https://fisherflying.com/engines/
+*** LF-39
+    - https://www.d-motor.eu/lf-39
+    - 6-cylinder, flat-head side injection
+    - 125 HP @ 3000 RPM
+    - 91 - 98 RON / Avgas
+    - 5 GPM
+    - 285 NM @ 2500
+    - 90 kg wet ~ 200 lbs
+** Lycoming
+** Rotax
+   - Zenair pricing page http://zenair.weebly.com/rotax.html
+** UL Power
+** Viking Aircraft Engines
+** Wilksch Aero / Apple Tree Innovation
+   - [[https://appletreeinnov.co.uk/][Apple Tree Innovation]]
+   - [[http://www.wilksch.aero/][Wilksch Company web site]]
+   - Apple Tree aquired Wilksh, unclear whether they will continue
+     production & R&D, or just service.
+* Engine Comparison
+| MFR           | Engine | Fuel      | TBO (HR) | Rated Power (HP) | Rated Torque (Nm) | Weight (LBS) | Price (USD) | Notes |
+|---------------+--------+-----------+----------+------------------+-------------------+--------------+-------------+-------|
+| Rotax         |        |           |          |                  |                   |              |             |       |
+| Aero Momentum |        |           |          |                  |                   |              |             |       |
+| Continental   | O-200  | 80/87 (?) |     2000 | 100 @ 2750       | 160 [ft-lbs] [1]  |          214 | $31,000 [2] |       |
+|               |        |           |          |                  |                   |              |             |       |
+
+* Footnotes
+
+[1] [2019-08-30 Fri] Source: http://flycorvair.com/thrust.html
+[2] [2019-08-30 Fri] Source: http://www.airpowerinc.com/productcart/pc/TCEngineDetail.asp?catID=69&prodID=24607

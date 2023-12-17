@@ -1,0 +1,26 @@
+* Tools required, not supplied by Zenith
+  - [X] lb-in torque wrench
+  - [X] Small round file
+  - [X] Small level
+  - [X] Small square
+  - [X] Hole finder
+  - [X] Fluting pliers
+  - [X] Protractor with extension
+  - [X] Angle grinder
+  - [X] Angle drill
+* Hardware shopping list
+  - [X] Hose grips
+  - [X] (8+) AN960-616 washers; comes from row 2 bin 3 of finish kit
+  - [X] (X) AN4 castle nuts and cotter pins
+  - [X] (X) AN5-10A bolts -- found this one
+  - [X] (X) AN5-11A bolts -- found this one
+  - [ ] Cotter pins, AN3/4/5
+  - [ ] Washers for the bolts & nuts already procured (accidentally got wrong sizes)
+  - [ ] TODO
+    - Bolts used on enhine mount (4x AN6-(10?) + 2x AN4/5-?)
+  - [X] #30 bits, maybe other sizes too
+  - [X] Firewall heat blanket
+  - [X] 1/4" acrylic bit
+  - [ ] #10 acrylic bit
+  - [X] Rivnuts 3/16" hole, for windscreen to frame top bar
+  - [ ] Thread sealant suitable for acrylic applications; see build instructions

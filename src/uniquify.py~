@@ -1,0 +1,10 @@
+"""Got a new phone. Now I have overlapping photo filenames. This script puts
+a unique id in each filename."""
+
+import glob
+import os
+
+
+
+if __name__ == "__main__":
+    main()

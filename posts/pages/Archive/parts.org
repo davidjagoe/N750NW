@@ -1,0 +1,12 @@
+* Parts for order
+  - [X] Duplex fuel valve
+  - [X] Fuel pump input manifold
+  - [X] Battery
+  - [X] Fuel drain valve
+  - [X] Oetiker clamps
+  - [ ] Oetiker pliers with front and side jaws
+  - [ ] Oil cooler
+
+* Hoses
+** Earls Speedflex
+   - https://www.holley.com/products/plumbing_an_fittings_and_hose/speed-seal_and_speed-flex/speed-flex_hose/parts/600006ERL

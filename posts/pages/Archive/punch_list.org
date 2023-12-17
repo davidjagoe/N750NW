@@ -1,0 +1,23 @@
+* Punchlist
+  - [X] Install cotter pins (total 4) on seat back pins (+ washers ?)
+  - [X] Install elevator trim tab, safety wire & rivet
+  - [ ] Drill, debur & rivet baggage back thru top skin
+  - [X] File down top skin angles for better fit to longerons
+  - [ ] Cavity wax in the front landing gear strut
+  - [ ] DWG 75-CA-1; install castle nut on flap motor mount; castle
+    nut was missing from kit
+  - [X] DWG 75-CA-1; replace temporary AN5-11A with AN5-10A which was
+    missing from H/W kit
+  - [ ] Safety wire (4) front landing gear bottom bearing bracket bolts
+  - [ ] Safety wire (2) front landing gear axle bolts
+  - [ ] Adjust main landing gear mounting bolt tightness and check
+    rubbers for position
+  - [ ] Check installation of main wheel cotter pins - do they need to
+    be properly bent back?
+  - [ ] Grease the control stick bushing
+  - [ ] Check grease on the flaperon bellcranks
+  - [ ] Do I need to replace A5 rivets in cabin frame support angles
+    with AS5 rivets? (See 75-FA-6 and 75-NA-1)
+* Wiring drawings
+  - https://github.com/formatc1702/WireViz
+* Inspection vs drawings

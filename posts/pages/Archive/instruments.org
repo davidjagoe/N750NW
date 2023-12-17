@@ -1,0 +1,35 @@
+* Minimum VFR Instrumentation
+** Air speed
+** Altitude
+** Compass
+** COM1 radio plus intercom
+* Backup Instrumentation
+** Handheld com radio
+** Handheld GPS with basic nav
+* EFIS Instruments
+** Dynon
+** Not considering any longer
+*** AeroVonics
+    - https://aerovonics.com/
+*** Open Flight Solutions
+    - https://www.openflightsolutions.com/flightview/
+*** Garmin
+*** GRT instruments
+    Alternative to Dynon?
+    - http://grtavionics.com/
+    - http://grtavionics.com/home/efis-systems/sport-ex-efis/
+*** iFly
+    - https://www.iflygps.com/iFly740b/iFly740
+*** iLevil
+    - https://levilaviation.com/products/
+* Electronic Instruments
+** Kanardia
+   - https://www.kanardia.eu
+
+* DIY
+  - https://uxdesign.cc/great-products-do-less-things-but-better-5dde0ee3fc76
+  - http://stratux.me/
+  - https://learn.adafruit.com/ahrs-for-adafruits-9-dof-10-dof-breakout/using-adafruit-ahrs
+  - https://www.adafruit.com/product/2651
+  - https://www.bosch-sensortec.com/bst/products/all_products/bmi160
+  - https://www.xsens.com/products/mti-100-series/

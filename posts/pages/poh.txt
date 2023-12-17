@@ -1,0 +1,120 @@
+                 _____________________________________
+
+                       PILOT'S OPERATING HANDBOOK
+                  N750NW SERIAL# 75-10951 STOL CH 750
+
+                              DAVID JAGOE
+                 _____________________________________
+
+
+Table of Contents
+_________________
+
+1. General
+.. 1. Airplane Three View
+.. 2. Descriptive Data
+..... 1. Engine
+..... 2. Propeller
+..... 3. Fuel System
+2. Limitations
+.. 1. Airspeed Limitations
+.. 2. Maneuvering Limitations
+.. 3. Types of Operations
+3. Emergency Procedures
+4. Normal Procedures
+5. Performance
+6. Weight and Balance
+7. Systems Description
+8. Servicing and Maintenance
+
+
+
+
+
+1 General
+=========
+
+1.1 Airplane Three View
+~~~~~~~~~~~~~~~~~~~~~~~
+
+  <../three-view.png>
+
+
+1.2 Descriptive Data
+~~~~~~~~~~~~~~~~~~~~
+
+1.2.1 Engine
+------------
+
+   *Description*       Fuel injected inline four cylinder, liquid cooled 
+   *Manufacturer*      Aeromomentum                                      
+   *Model*             AM15                                              
+   *Serial Number*     HOLD                                              
+   *Rated Horsepower*  117                                               
+   *RPM Continuous*    HOLD                                              
+   *RPM Cruise*        HOLD                                              
+
+
+1.2.2 Propeller
+---------------
+
+
+1.2.3 Fuel System
+-----------------
+
+
+2 Limitations
+=============
+
+2.1 Airspeed Limitations
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+  All airspeeds in knots.
+   *AIRSPEED*  *DESCRIPTION*              *KCAS*  *KIAS*  *REMARKS*                                                                          
+  -------------------------------------------------------------------------------------------------------------------------------------------
+   V_NE        NEVER EXCEED                  108  HOLD    Do not exceed this speed in any operation.                                         
+   V_NO        MAXIMUM STRUCTURAL CRUISE      90  HOLD    Do not exceed this speed except in smooth air, and then only with extreme caution. 
+   V_A         MANEUVERING SPEED              78  HOLD    Do not make full or abrupt control movements above this speed.                     
+   V_FE        MAXIMUM FLAP EXTENSION         69  HOLD    Do not operate with flaps extended above this speed.                               
+
+  Maximum crosswind component: 10 knots.
+
+
+2.2 Maneuvering Limitations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   *CONFIGURATION*  *POSITIVE G LIMIT*  *NEGATIVE G LIMIT* 
+  ---------------------------------------------------------
+   Flaps up         +4 g                -2 g               
+   Flaps down       +2 g                -0 g               
+
+  - Intentional spins are prohibited.
+  - Aerobatics prohibited.
+
+
+2.3 Types of Operations
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+3 Emergency Procedures
+======================
+
+
+4 Normal Procedures
+===================
+
+
+5 Performance
+=============
+
+
+6 Weight and Balance
+====================
+
+
+7 Systems Description
+=====================
+
+
+8 Servicing and Maintenance
+===========================

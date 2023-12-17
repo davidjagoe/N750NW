@@ -1,0 +1,13 @@
+* Measure torque required to turn AN3 nyloc nut
+
+Force required = 1500g force
+Arm            = 10cm
+
+torque applied = 15000 g.cm
+               = 13 in-lb
+
+Chatted with Leo on Zenith Aircraft Builders; he thinks AN3 nyloc is
+more like 1 or 2 lb-in.
+
+Ordered a deflection (beam) torque wrench with starting scale of 0 to
+check.
